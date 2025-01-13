@@ -12,26 +12,15 @@
         "pastEvents": ["DevFest Tashkent"]
       },
       {
-        "id": 1,
+        "id": 2,
         "name": "Bora Biricik",
         "expertise": ["Web Development", "JavaScript", "React", "Node.js"],
         "bio": "Bora Biricik, 2020'dan beri aktif Front-End Geliştiricilik yapmakta ve paralelinde diğer JavaScript teknolojileri üzerine çalışmalar yapıp açık kaynağa destek vermektedir.",
-        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHZ3nwax9UDMQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684182936151?e=2147483647&v=beta&t=hdJ7Wyf-Z1Yn-3lDh6qJ0qxGy8OyfmHRi5UBxCQL1FI",
+        "image": "https://bursa.dev/images/team/bora-biricik.png",
         "email": "bora@biricik.dev",
         "linkedin": "linkedin.com/in/bora-biricik",
         "twitter": "@biricik_js",
         "pastEvents": ["Bursa Bilişim Topluluğu: React 101 (Workshop)", "Bursa Bilişim Topluluğu: Framer Motion ile Animasyon (Workshop)", "GDSC Bursa: Yazılım Dünyasına Giriş"]
-      },
-      {
-        "id": 2,
-        "name": "Michael Chen",
-        "expertise": ["Web Development", "JavaScript", "React", "Node.js"],
-        "bio": "Full-stack developer and tech evangelist with a passion for building scalable web applications and mentoring new developers.",
-        "image": "https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "michael.chen@email.com",
-        "linkedin": "linkedin.com/in/michaelchen",
-        "twitter": "@chendev",
-        "pastEvents": ["JSConf 2023", "ReactCon 2022", "NodeSummit 2023"]
       },
       {
         "id": 3,
