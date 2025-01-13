@@ -40,14 +40,14 @@
     },
       {
         "id": 4,
-        "name": "Alex Thompson",
-        "expertise": ["Quantum Computing", "Physics", "Algorithm Design"],
-        "bio": "Quantum computing researcher bridging the gap between theoretical physics and practical computing applications.",
-        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "alex.thompson@email.com",
-        "linkedin": "linkedin.com/in/alexthompson",
-        "twitter": "@quantumalex",
-        "pastEvents": ["QuantumTech 2023", "PhysicsCon 2022", "Q-Bits Summit 2023"]
+        "name": "Mehmet Altuğ Akgül",
+        "expertise": ["Cloud Engineering", "Fullstack Development", "Cloud Architecture"],
+        "bio": "Data Center & Cloud Product Manager / Solution Architect | Cloud Engineering & Architecture, Fullstack Development, Golang, JS",
+        "image": "https://raw.githubusercontent.com/mehmetaltugakgul/mehmetaltugakgul/refs/heads/main/ppx.png",
+        "email": "info@altug.dev",
+        "linkedin": "linkedin.com/in/mehmetaltugakgul",
+        "twitter": "@AltugAkgul",
+        "pastEvents": ["DevFest Ankara"]
       },
       {
         "id": 5,
