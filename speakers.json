@@ -40,14 +40,14 @@
     },
       {
         "id": 4,
-        "name": "Alex Thompson",
-        "expertise": ["Quantum Computing", "Physics", "Algorithm Design"],
-        "bio": "Quantum computing researcher bridging the gap between theoretical physics and practical computing applications.",
-        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "alex.thompson@email.com",
-        "linkedin": "linkedin.com/in/alexthompson",
-        "twitter": "@quantumalex",
-        "pastEvents": ["QuantumTech 2023", "PhysicsCon 2022", "Q-Bits Summit 2023"]
+        "name": "Hüseyin Altıntaş",
+        "expertise": ["Cyber Security", "Red Team", "Blue Team", "Purple Team", "Attack Surface Management", "Cyber Threat Intelligence", "Web Application Pentest", "SOC"],
+        "bio": "SOC Analyst @INGTurkey. Siber güvenlik ve tehdit istihbaratı konularında uzmanlaşmış bir analist.",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHnKunlFGAZPA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679317268187?e=1742428800&v=beta&t=eSGBFf8Zxf4xCnr_OQSjzXmRsXqaCSjj-9hzcdWYa3c",
+        "email": "hsynn.altnss@gmail.com",
+        "linkedin": "linkedin.com/in/huseyinaltns",
+        "twitter": "@huseyinaltns",
+        "pastEvents": ["BBT Connect: Cyber Security", "Siber Zirve 2024 (Presenter) - DPUSEC Siber Güvenlik Kulübü", "Siber Zirve 2022 (Presenter) - DPUSEC Siber Güvenlik Kulübü"]
       },
       {
         "id": 5,
