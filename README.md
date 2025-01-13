@@ -7,7 +7,21 @@ A collaborative repository for maintaining a list of community speakers in the t
 1. Fork this repository
 2. Add your information to the `speakers.json` file following this format:
 
+```json
+{
+        "id": 1,
+        "name": "Semih Kışlar",
+        "expertise": ["Artificial Intelligence", "Machine Learning", "Data Science"],
+        "bio": "Developer Relations Specialist at Teknasyon, Founder of Bursa Bilişim Topluluğu",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "email": "semih@bursa.dev",
+        "linkedin": "linkedin.com/in/semihkislar",
+        "twitter": "@semiyann",
+        "pastEvents": ["TechCon 2023", "AI Summit 2022", "Data Science Forum 2023"],
+        "rating": 4.9
+}
 ```
+
 3. Submit a pull request
 
 ## Guidelines
