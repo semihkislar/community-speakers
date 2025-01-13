@@ -9,8 +9,7 @@
         "email": "sarah.johnson@email.com",
         "linkedin": "linkedin.com/in/sarahjohnson",
         "twitter": "@sarahjtech",
-        "pastEvents": ["TechCon 2023", "AI Summit 2022", "Data Science Forum 2023"],
-        "rating": 4.9
+        "pastEvents": ["TechCon 2023", "AI Summit 2022", "Data Science Forum 2023"]
       },
       {
         "id": 2,
@@ -21,8 +20,7 @@
         "email": "michael.chen@email.com",
         "linkedin": "linkedin.com/in/michaelchen",
         "twitter": "@chendev",
-        "pastEvents": ["JSConf 2023", "ReactCon 2022", "NodeSummit 2023"],
-        "rating": 4.8
+        "pastEvents": ["JSConf 2023", "ReactCon 2022", "NodeSummit 2023"]
       },
       {
         "id": 3,
@@ -33,8 +31,7 @@
         "email": "elena.martinez@email.com",
         "linkedin": "linkedin.com/in/elenamartinez",
         "twitter": "@elenadigital",
-        "pastEvents": ["MarketingWeek 2023", "SEOCon 2022", "ContentSummit 2023"],
-        "rating": 4.7
+        "pastEvents": ["MarketingWeek 2023", "SEOCon 2022", "ContentSummit 2023"]
       },
       {
         "id": 4,
@@ -45,8 +42,7 @@
         "email": "alex.thompson@email.com",
         "linkedin": "linkedin.com/in/alexthompson",
         "twitter": "@quantumalex",
-        "pastEvents": ["QuantumTech 2023", "PhysicsCon 2022", "Q-Bits Summit 2023"],
-        "rating": 4.9
+        "pastEvents": ["QuantumTech 2023", "PhysicsCon 2022", "Q-Bits Summit 2023"]
       },
       {
         "id": 5,
@@ -57,8 +53,7 @@
         "email": "priya.patel@email.com",
         "linkedin": "linkedin.com/in/priyapatel",
         "twitter": "@priyadata",
-        "pastEvents": ["DataCon 2023", "BI Summit 2022", "Analytics Forum 2023"],
-        "rating": 4.8
+        "pastEvents": ["DataCon 2023", "BI Summit 2022", "Analytics Forum 2023"]
       },
       {
         "id": 6,
@@ -69,8 +64,7 @@
         "email": "marcus.williams@email.com",
         "linkedin": "linkedin.com/in/marcuswilliams",
         "twitter": "@roboticsmarcus",
-        "pastEvents": ["RoboticsCon 2023", "AutomationExpo 2022", "Control Systems Summit 2023"],
-        "rating": 4.7
+        "pastEvents": ["RoboticsCon 2023", "AutomationExpo 2022", "Control Systems Summit 2023"]
       },
       {
         "id": 7,
@@ -81,8 +75,7 @@
         "email": "sofia.rodriguez@email.com",
         "linkedin": "linkedin.com/in/sofiarodriguez",
         "twitter": "@sofiaux",
-        "pastEvents": ["UXWeek 2023", "ResearchCon 2022", "Design Thinking Summit 2023"],
-        "rating": 4.9
+        "pastEvents": ["UXWeek 2023", "ResearchCon 2022", "Design Thinking Summit 2023"]
       },
       {
         "id": 8,
@@ -93,8 +86,7 @@
         "email": "daniel.kim@email.com",
         "linkedin": "linkedin.com/in/danielkim",
         "twitter": "@danielios",
-        "pastEvents": ["WWDC 2023", "SwiftCon 2022", "MobileTech Summit 2023"],
-        "rating": 4.8
+        "pastEvents": ["WWDC 2023", "SwiftCon 2022", "MobileTech Summit 2023"]
       },
       {
         "id": 9,
@@ -105,8 +97,7 @@
         "email": "emma.wilson@email.com",
         "linkedin": "linkedin.com/in/emmawilson",
         "twitter": "@emmacloud",
-        "pastEvents": ["AWS re:Invent 2023", "CloudCon 2022", "Serverless Summit 2023"],
-        "rating": 4.7
+        "pastEvents": ["AWS re:Invent 2023", "CloudCon 2022", "Serverless Summit 2023"]
       },
       {
         "id": 10,
@@ -117,8 +108,7 @@
         "email": "raj.patel@email.com",
         "linkedin": "linkedin.com/in/rajpatel",
         "twitter": "@rajblockchain",
-        "pastEvents": ["ETHGlobal 2023", "DeFiCon 2022", "Web3 Summit 2023"],
-        "rating": 4.8
+        "pastEvents": ["ETHGlobal 2023", "DeFiCon 2022", "Web3 Summit 2023"]
       },
       {
         "id": 11,
@@ -129,8 +119,7 @@
         "email": "isabella.garcia@email.com",
         "linkedin": "linkedin.com/in/isabellagarcia",
         "twitter": "@isabellapm",
-        "pastEvents": ["ProductCon 2023", "AgileWeek 2022", "Strategy Summit 2023"],
-        "rating": 4.9
+        "pastEvents": ["ProductCon 2023", "AgileWeek 2022", "Strategy Summit 2023"]
       },
       {
         "id": 12,
@@ -141,8 +130,7 @@
         "email": "lucas.schmidt@email.com",
         "linkedin": "linkedin.com/in/lucasschmidt",
         "twitter": "@lucasgamedev",
-        "pastEvents": ["GameDev Con 2023", "Unity Summit 2022", "VR Expo 2023"],
-        "rating": 4.8
+        "pastEvents": ["GameDev Con 2023", "Unity Summit 2022", "VR Expo 2023"]
       },
       {
         "id": 13,
@@ -153,8 +141,7 @@
         "email": "sophia.lee@email.com",
         "linkedin": "linkedin.com/in/sophialee",
         "twitter": "@sophiadesigns",
-        "pastEvents": ["DesignCon 2023", "UX Summit 2022", "Design Systems Forum 2023"],
-        "rating": 4.7
+        "pastEvents": ["DesignCon 2023", "UX Summit 2022", "Design Systems Forum 2023"]
       },
       {
         "id": 14,
@@ -165,8 +152,7 @@
         "email": "omar.hassan@email.com",
         "linkedin": "linkedin.com/in/omarhassan",
         "twitter": "@omarsecurity",
-        "pastEvents": ["BlackHat 2023", "DefCon 2022", "Security Summit 2023"],
-        "rating": 4.9
+        "pastEvents": ["BlackHat 2023", "DefCon 2022", "Security Summit 2023"]
       },
       {
         "id": 15,
@@ -177,8 +163,7 @@
         "email": "nina.petrova@email.com",
         "linkedin": "linkedin.com/in/ninapetrova",
         "twitter": "@ninadata",
-        "pastEvents": ["AI Conference 2023", "NLP Summit 2022", "Deep Learning Forum 2023"],
-        "rating": 4.8
+        "pastEvents": ["AI Conference 2023", "NLP Summit 2022", "Deep Learning Forum 2023"]
       },
       {
         "id": 16,
@@ -189,8 +174,7 @@
         "email": "carlos.mendoza@email.com",
         "linkedin": "linkedin.com/in/carlosmendoza",
         "twitter": "@carlosdevops",
-        "pastEvents": ["KubeCon 2023", "DevOpsDays 2022", "Container Summit 2023"],
-        "rating": 4.7
+        "pastEvents": ["KubeCon 2023", "DevOpsDays 2022", "Container Summit 2023"]
       },
       {
         "id": 17,
@@ -201,8 +185,7 @@
         "email": "aisha.khan@email.com",
         "linkedin": "linkedin.com/in/aishakhan",
         "twitter": "@aishawebdev",
-        "pastEvents": ["VueConf 2023", "WebPerf Summit 2022", "Frontend Forum 2023"],
-        "rating": 4.8
+        "pastEvents": ["VueConf 2023", "WebPerf Summit 2022", "Frontend Forum 2023"]
       },
       {
         "id": 18,
@@ -213,8 +196,7 @@
         "email": "thomas.weber@email.com",
         "linkedin": "linkedin.com/in/thomasweber",
         "twitter": "@thomasiot",
-        "pastEvents": ["IoT World 2023", "Embedded Con 2022", "Hardware Summit 2023"],
-        "rating": 4.6
+        "pastEvents": ["IoT World 2023", "Embedded Con 2022", "Hardware Summit 2023"]
       },
       {
         "id": 19,
@@ -225,8 +207,7 @@
         "email": "maya.patel@email.com",
         "linkedin": "linkedin.com/in/mayapatel",
         "twitter": "@mayagrowth",
-        "pastEvents": ["GrowthHackers 2023", "CRO Day 2022", "Analytics Summit 2023"],
-        "rating": 4.8
+        "pastEvents": ["GrowthHackers 2023", "CRO Day 2022", "Analytics Summit 2023"]
       },
       {
         "id": 20,
@@ -237,8 +218,7 @@
         "email": "david.anderson@email.com",
         "linkedin": "linkedin.com/in/davidanderson",
         "twitter": "@davidsysarch",
-        "pastEvents": ["ArchCon 2023", "ScaleSummit 2022", "Distributed Systems Forum 2023"],
-        "rating": 4.9
+        "pastEvents": ["ArchCon 2023", "ScaleSummit 2022", "Distributed Systems Forum 2023"]
       },
       {
         "id": 21,
@@ -249,8 +229,7 @@
         "email": "julia.santos@email.com",
         "linkedin": "linkedin.com/in/juliasantos",
         "twitter": "@juliaandroid",
-        "pastEvents": ["Android Dev Summit 2023", "KotlinConf 2022", "Mobile Summit 2023"],
-        "rating": 4.8
+        "pastEvents": ["Android Dev Summit 2023", "KotlinConf 2022", "Mobile Summit 2023"]
       },
       {
         "id": 22,
@@ -261,8 +240,7 @@
         "email": "ryan.zhang@email.com",
         "linkedin": "linkedin.com/in/ryanzhang",
         "twitter": "@ryanml",
-        "pastEvents": ["CVPR 2023", "ML Summit 2022", "AI Conference 2023"],
-        "rating": 4.9
+        "pastEvents": ["CVPR 2023", "ML Summit 2022", "AI Conference 2023"]
       },
       {
         "id": 23,
@@ -273,8 +251,7 @@
         "email": "laura.fischer@email.com",
         "linkedin": "linkedin.com/in/laurafischer",
         "twitter": "@lauradocs",
-        "pastEvents": ["Write the Docs 2023", "API Summit 2022", "Documentation Forum 2023"],
-        "rating": 4.7
+        "pastEvents": ["Write the Docs 2023", "API Summit 2022", "Documentation Forum 2023"]
       },
       {
         "id": 24,
@@ -285,8 +262,7 @@
         "email": "ahmed.hassan@email.com",
         "linkedin": "linkedin.com/in/ahmedhassan",
         "twitter": "@ahmedpy",
-        "pastEvents": ["PyCon 2023", "DjangoCon 2022", "Backend Summit 2023"],
-        "rating": 4.8
+        "pastEvents": ["PyCon 2023", "DjangoCon 2022", "Backend Summit 2023"]
       },
       {
         "id": 25,
@@ -297,8 +273,7 @@
         "email": "rachel.chen@email.com",
         "linkedin": "linkedin.com/in/rachelchen",
         "twitter": "@racheldesigns",
-        "pastEvents": ["Design Leadership 2023", "Product Design Summit 2022", "UX Conference 2023"],
-        "rating": 4.9
+        "pastEvents": ["Design Leadership 2023", "Product Design Summit 2022", "UX Conference 2023"]
       },
       {
         "id": 26,
@@ -309,8 +284,7 @@
         "email": "marco.rossi@email.com",
         "linkedin": "linkedin.com/in/marcorossi",
         "twitter": "@marcodb",
-        "pastEvents": ["PostgreSQL Conference 2023", "Database Summit 2022", "Data Modeling Forum 2023"],
-        "rating": 4.8
+        "pastEvents": ["PostgreSQL Conference 2023", "Database Summit 2022", "Data Modeling Forum 2023"]
       },
       {
         "id": 27,
@@ -321,8 +295,7 @@
         "email": "samantha.lee@email.com",
         "linkedin": "linkedin.com/in/samanthalee",
         "twitter": "@samanthadigital",
-        "pastEvents": ["Digital Enterprise 2023", "Change Management Summit 2022", "Enterprise Forum 2023"],
-        "rating": 4.7
+        "pastEvents": ["Digital Enterprise 2023", "Change Management Summit 2022", "Enterprise Forum 2023"]
       },
       {
         "id": 28,
@@ -333,8 +306,7 @@
         "email": "victor.nguyen@email.com",
         "linkedin": "linkedin.com/in/victornguyen",
         "twitter": "@victorgames",
-        "pastEvents": ["GameDev Summit 2023", "Unity Conference 2022", "Mobile Gaming Forum 2023"],
-        "rating": 4.8
+        "pastEvents": ["GameDev Summit 2023", "Unity Conference 2022", "Mobile Gaming Forum 2023"]
       },
       {
         "id": 29,
@@ -345,8 +317,7 @@
         "email": "zara.khan@email.com",
         "linkedin": "linkedin.com/in/zarakhan",
         "twitter": "@zarasecurity",
-        "pastEvents": ["InfoSec World 2023", "Risk Management Summit 2022", "Compliance Forum 2023"],
-        "rating": 4.9
+        "pastEvents": ["InfoSec World 2023", "Risk Management Summit 2022", "Compliance Forum 2023"]
       },
       {
         "id": 30,
@@ -357,8 +328,7 @@
         "email": "benjamin.taylor@email.com",
         "linkedin": "linkedin.com/in/benjamintaylor",
         "twitter": "@benarchitect",
-        "pastEvents": ["ArchSummit 2023", "Microservices Con 2022", "Software Design Forum 2023"],
-        "rating": 4.8
+        "pastEvents": ["ArchSummit 2023", "Microservices Con 2022", "Software Design Forum 2023"]
       }
     ]
   } 
