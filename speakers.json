@@ -23,16 +23,21 @@
         "pastEvents": ["Bursa Bilişim Topluluğu: React 101 (Workshop)", "Bursa Bilişim Topluluğu: Framer Motion ile Animasyon (Workshop)", "GDSC Bursa: Yazılım Dünyasına Giriş"]
       },
       {
-        "id": 3,
-        "name": "Elena Martinez",
-        "expertise": ["Digital Marketing", "SEO", "Content Strategy"],
-        "bio": "Digital marketing strategist helping brands achieve organic growth through data-driven content strategies.",
-        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "elena.martinez@email.com",
-        "linkedin": "linkedin.com/in/elenamartinez",
-        "twitter": "@elenadigital",
-        "pastEvents": ["MarketingWeek 2023", "SEOCon 2022", "ContentSummit 2023"]
-      },
+      "id": 3,
+      "name": "Orhan Özkerçin",
+      "expertise": ["Web Development", "JavaScript", "React", "Vue"],
+      "bio": "Developer @Teknasyon. JavaScript ve etrafında gelişen araçlarla çalışmayı seviyor.",
+      "image": "https://orhan.ozkercin.dev/IMG_0469.png",
+      "email": "orhan@ozkercin.dev",
+      "linkedin": "linkedin.com/in/orhanozkercin",
+      "twitter": "@orhanozkercin ",
+      "pastEvents": [
+        "DevFest Ankara",
+        "Bursa Bilişim Topluluğu Workshop",
+        "DevFest İzmir",
+        "Teknasyon Tech Talks"
+      ]
+    },
       {
         "id": 4,
         "name": "Alex Thompson",
