@@ -356,6 +356,19 @@
         "linkedin": "linkedin.com/in/huseyinaltns",
         "twitter": "@huseyinaltns",
         "pastEvents": ["BBT Connect: Cyber Security", "Siber Zirve 2024 (Presenter) - DPUSEC Siber Güvenlik Kulübü", "Siber Zirve 2022 (Presenter) - DPUSEC Siber Güvenlik Kulübü"]
+      },
+      {
+        "id":33,
+        "name": "Mehmet Altuğ Akgül",
+        "expertise": ["Cloud Engineering", "Fullstack Development", "Cloud Architecture"],
+        "bio": "Data Center & Cloud Product Manager / Solution Architect | Cloud Engineering & Architecture, Fullstack Development, Golang, JS",
+        "image": "https://raw.githubusercontent.com/mehmetaltugakgul/mehmetaltugakgul/refs/heads/main/ppx.png",
+        "email": "info@altug.dev",
+        "linkedin": "linkedin.com/in/mehmetaltugakgul",
+        "twitter": "@AltugAkgul",
+        "pastEvents": ["DevFest Ankara"]
+      
       }
+      
     ]
   } 
