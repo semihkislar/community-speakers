@@ -239,7 +239,18 @@
         "Devfest İzmir 2023",
         "Devfest Kocaeli 2023",
         "Devfest Trabzon 2023",
-        "Devfest Samsun 2023"]
+        "Devfest Samsun 2023"
+      ]
+    },
+    {
+      "name": "",
+      "expertise": [],
+      "bio": "",
+      "image": "",
+      "email": "",
+      "linkedin": "",
+      "twitter": "",
+      "pastEvents": []
     }
   ]
 }
