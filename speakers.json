@@ -40,14 +40,14 @@
     },
       {
         "id": 4,
-        "name": "Alex Thompson",
-        "expertise": ["Quantum Computing", "Physics", "Algorithm Design"],
-        "bio": "Quantum computing researcher bridging the gap between theoretical physics and practical computing applications.",
-        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "alex.thompson@email.com",
-        "linkedin": "linkedin.com/in/alexthompson",
-        "twitter": "@quantumalex",
-        "pastEvents": ["QuantumTech 2023", "PhysicsCon 2022", "Q-Bits Summit 2023"]
+        "name": "Emre Bozkurt",
+        "expertise": ["Backend Development", "PHP", "Go", "Java"],
+        "bio": "Software Developer @Teknasyon. 2020'den beri aktif Backend Geliştirmekte ve yanında mobil platformlar üzerine çalışmalar yapmaktadır.",
+        "image": "https://i.imgur.com/d8i1kcQ.jpeg",
+        "email": "emre@emreb.dev",
+        "linkedin": "linkedin.com/in/bozkurrtemre",
+        "twitter": "@emrebdev",
+        "pastEvents": ["Bursa Bilişim Topluluğu: Legacy Reboot: PHP to Go Transition (Workshop)"]
       },
       {
         "id": 5,
