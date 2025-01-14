@@ -40,25 +40,25 @@
     },
       {
         "id": 4,
-        "name": "Mehmet Altuğ Akgül",
-        "expertise": ["Cloud Engineering", "Fullstack Development", "Cloud Architecture"],
-        "bio": "Data Center & Cloud Product Manager / Solution Architect | Cloud Engineering & Architecture, Fullstack Development, Golang, JS",
-        "image": "https://raw.githubusercontent.com/mehmetaltugakgul/mehmetaltugakgul/refs/heads/main/ppx.png",
-        "email": "info@altug.dev",
-        "linkedin": "linkedin.com/in/mehmetaltugakgul",
-        "twitter": "@AltugAkgul",
-        "pastEvents": ["DevFest Ankara"]
+        "name": "Emre Bozkurt",
+        "expertise": ["Backend Development", "PHP", "Go", "Java"],
+        "bio": "Software Developer @Teknasyon. 2020'den beri aktif Backend Geliştirmekte ve yanında mobil platformlar üzerine çalışmalar yapmaktadır.",
+        "image": "https://i.imgur.com/d8i1kcQ.jpeg",
+        "email": "emre@emreb.dev",
+        "linkedin": "linkedin.com/in/bozkurrtemre",
+        "twitter": "@emrebdev",
+        "pastEvents": ["Bursa Bilişim Topluluğu: Legacy Reboot: PHP to Go Transition (Workshop)"]
       },
       {
         "id": 5,
-        "name": "Priya Patel",
-        "expertise": ["Data Analytics", "Business Intelligence", "Visualization"],
-        "bio": "Data analytics expert specializing in transforming complex data into actionable business insights.",
-        "image": "https://images.unsplash.com/photo-1598550874175-4d0ef436c909?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "priya.patel@email.com",
-        "linkedin": "linkedin.com/in/priyapatel",
-        "twitter": "@priyadata",
-        "pastEvents": ["DataCon 2023", "BI Summit 2022", "Analytics Forum 2023"]
+        "name": "Ilker Ulusoy",
+        "expertise": ["Mobile Application Development", "Mobile Application Security", "Mobile Application Performance"],
+        "bio": "I'm a Software Developer who's passionate about creating great mobile apps. I'm currently leading the way as a Software Architect at VSight, where I manage iOS and Android teams, help make important technical decisions, and support our talented mobile engineers.",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGip5h5SatoUw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572255414377?e=1742428800&v=beta&t=zbW9u5gTlt8Xz75nGxsVKFPh3rzFeRhWenW0MVWi-Ao",
+        "email": "ilker@ilkerulusoy.com.tr",
+        "linkedin": "linkedin.com/in/ulusoyilker",
+        "twitter": "@ilkerulusoy",
+        "pastEvents": []
       },
       {
         "id": 6,
@@ -334,6 +334,41 @@
         "linkedin": "linkedin.com/in/benjamintaylor",
         "twitter": "@benarchitect",
         "pastEvents": ["ArchSummit 2023", "Microservices Con 2022", "Software Design Forum 2023"]
+      },
+      {
+        "id": 31,
+        "name": "Abdulkerim Karaman",
+        "expertise": ["React", "React Native", "Software Architecture", "Microservices", "Micro Frontends"],
+        "bio": "Financial and banking applications manager on mobile platform. Technology writer on Medium",
+        "image": "https://images.unsplash.com/photo-1736803515812-16f3b219f4ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "email": "abdulkerimkaraman@gmail.com",
+        "linkedin": "linkedin.com/in/abdulkerimkaraman",
+        "twitter": "@kerimkaraman24",
+        "pastEvents": ["DevFest", "DevNot", "Deneyap", "IBB Mobil App event"]
+      },
+      {
+        "id":32,
+        "name": "Hüseyin Altıntaş",
+        "expertise": ["Cyber Security", "Red Team", "Blue Team", "Purple Team", "Attack Surface Management", "Cyber Threat Intelligence", "Web Application Pentest", "SOC"],
+        "bio": "SOC Analyst @INGTurkey. Siber güvenlik ve tehdit istihbaratı konularında uzmanlaşmış bir analist.",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHnKunlFGAZPA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679317268187?e=1742428800&v=beta&t=eSGBFf8Zxf4xCnr_OQSjzXmRsXqaCSjj-9hzcdWYa3c",
+        "email": "hsynn.altnss@gmail.com",
+        "linkedin": "linkedin.com/in/huseyinaltns",
+        "twitter": "@huseyinaltns",
+        "pastEvents": ["BBT Connect: Cyber Security", "Siber Zirve 2024 (Presenter) - DPUSEC Siber Güvenlik Kulübü", "Siber Zirve 2022 (Presenter) - DPUSEC Siber Güvenlik Kulübü"]
+      },
+      {
+        "id":33,
+        "name": "Mehmet Altuğ Akgül",
+        "expertise": ["Cloud Engineering", "Fullstack Development", "Cloud Architecture"],
+        "bio": "Data Center & Cloud Product Manager / Solution Architect | Cloud Engineering & Architecture, Fullstack Development, Golang, JS",
+        "image": "https://raw.githubusercontent.com/mehmetaltugakgul/mehmetaltugakgul/refs/heads/main/ppx.png",
+        "email": "info@altug.dev",
+        "linkedin": "linkedin.com/in/mehmetaltugakgul",
+        "twitter": "@AltugAkgul",
+        "pastEvents": ["DevFest Ankara"]
+      
       }
+      
     ]
   } 
