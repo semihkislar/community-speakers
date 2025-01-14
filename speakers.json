@@ -51,14 +51,14 @@
       },
       {
         "id": 5,
-        "name": "Priya Patel",
-        "expertise": ["Data Analytics", "Business Intelligence", "Visualization"],
-        "bio": "Data analytics expert specializing in transforming complex data into actionable business insights.",
-        "image": "https://images.unsplash.com/photo-1598550874175-4d0ef436c909?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "priya.patel@email.com",
-        "linkedin": "linkedin.com/in/priyapatel",
-        "twitter": "@priyadata",
-        "pastEvents": ["DataCon 2023", "BI Summit 2022", "Analytics Forum 2023"]
+        "name": "Ilker Ulusoy",
+        "expertise": ["Mobile Application Development", "Mobile Application Security", "Mobile Application Performance"],
+        "bio": "I'm a Software Developer who's passionate about creating great mobile apps. I'm currently leading the way as a Software Architect at VSight, where I manage iOS and Android teams, help make important technical decisions, and support our talented mobile engineers.",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGip5h5SatoUw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572255414377?e=1742428800&v=beta&t=zbW9u5gTlt8Xz75nGxsVKFPh3rzFeRhWenW0MVWi-Ao",
+        "email": "ilker@ilkerulusoy.com.tr",
+        "linkedin": "linkedin.com/in/ulusoyilker",
+        "twitter": "@ilkerulusoy",
+        "pastEvents": []
       },
       {
         "id": 6,
