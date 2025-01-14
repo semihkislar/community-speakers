@@ -56,6 +56,22 @@
       ]
     },
     {
+      "name": "Salih Başak",
+      "expertise": [
+        "Backend Development",
+        "PHP",
+        "Go"
+      ],
+      "bio": "Developer @Teknasyon. 2018'den beri aktif backend geliştirmekte ve B2C projelerde yer almaktadır.",
+      "image": "https://imgur.com/a/EnWMfkK",
+      "email": "salihbasakk@gmail.com",
+      "linkedin": "linkedin.com/in/salihbasakk",
+      "twitter": "@salihbasakk ",
+      "pastEvents": [
+        "Bursa Bilişim Topluluğu: Legacy Reboot: PHP to Go Transition (Workshop)"
+      ]
+    },
+    {
       "name": "Emre Bozkurt",
       "expertise": [
         "Backend Development",
