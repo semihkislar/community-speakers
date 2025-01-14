@@ -26,9 +26,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Create script
+      - name: Process Issue and Update Speakers
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
-          cat > process-speaker.js << 'EOF'
+          node << 'EOF'
           const fs = require('fs');
 
           // Read the current speakers.json
@@ -128,12 +130,6 @@ jobs:
           // Write back to speakers.json
           fs.writeFileSync('speakers.json', JSON.stringify(speakersData, null, 2));
           EOF
-
-      - name: Process Issue and Update Speakers
-        env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
-        run: |
-          node process-speaker.js
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
