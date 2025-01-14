@@ -4,12 +4,18 @@ on:
   issues:
     types: [labeled]
 
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
 jobs:
   add-speaker:
     if: github.event.label.name == 'approved'
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
       issues: write
 
     steps:
