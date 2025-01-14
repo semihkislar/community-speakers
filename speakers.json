@@ -259,5 +259,23 @@
         "JSKonf İstanbul 2024"
       ]
     },
+    {
+      "name": "Ender Ahmet Yurt",
+      "expertise": [
+        "Product Development",
+        "Ruby",
+        "Ruby on Rails"
+      ],
+      "bio": "Software Developer @teamtailor | Speaker @uretimbandi_pod | Co-Organizer @ruby_turkiye",
+      "image": "https://avatars.githubusercontent.com/u/447588?v=4",
+      "email": "enderyurt@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/enderahmetyurt/",
+      "twitter": "https://twitter.com/eayurtTwitter",
+      "pastEvents": [
+        "Devfest Samsun 2024",
+        "RailsGirls Ankara",
+        "19 Mayıs Üniversitesi IEEE Kulübü Kariyer Günleri"
+      ]
+    }    
   ]
 }
