@@ -161,6 +161,27 @@
       "pastEvents": [
         "DevFest Ankara"
       ]
+    },
+    {
+      "name": "Sarp Remzi Aksu",
+      "expertise": [
+        "Mobile App Development",
+        "Android",
+        "Kotlin",
+        "Jetpack Compose"
+      ],
+      "bio": "10 yaşından beri yazılım geliştirmenin içerisinde yer alan öğrenci. Geleceğin Android GDE'si.",
+      "image": "https://ibb.co/vzMXnF8",
+      "email": "sarpremziaksu@gmail.com",
+      "linkedin": "linkedin.com/in/sarpremziaksu",
+      "twitter": "@sarpremziaksu ",
+      "pastEvents": [
+        "DevFest Ankara 2023/2024",
+        "Roboto Conference 2024",
+        "Mobile @Scale 2024",
+        "Android Worldwide Nisan/Temmuz 2024",
+        "DevFest İzmir 2023"
+      ]
     }
   ]
 }
