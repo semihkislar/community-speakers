@@ -184,6 +184,43 @@
       ]
     },
     {
+      "name": "Sena Yakut",
+      "expertise": [
+        "Cloud Security",
+        "IoT Security",
+        "DevSecOps",
+        "Vulnerability Management"
+      ],
+      "bio": "AWS Security Hero, Cloud Security Architect @CyberWhiz. Passionate about securing the cloud and delivering security excellence.",
+      "image": "https://d1.awsstatic.com/getting-started-guides/New-Heroes-2024/sena%20yakut%20300.1b647d36e797785796018b51f303080079634396.png",
+      "email": "senayktt@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/sena-yakut/",
+      "twitter": "@sena_yakutt",
+      "pastEvents": [
+        "BBT Connect: Cyber Security",
+        "AWS Community Day Türkiye 2024",
+        "Developer Summit 2024",
+        "DevOpsDays Istanbul 2024"
+      ]
+    },
+    {
+      "name": "Fatih Kadir Akın",
+      "expertise": [
+        "JavaScript",
+        "Ruby",
+        "AI-assisted Development"
+      ],
+      "bio": "Software Developer, DevRel",
+      "image": "https://avatars.githubusercontent.com/u/196477",
+      "email": "hi@fka.dev",
+      "linkedin": "https",
+      "twitter": "https",
+      "pastEvents": [
+        "DevFest Ankara",
+        "DevFest Tashkent"
+      ]
+    },
+    {
       "name": "Gizem Malçok",
       "expertise": [
         "Mobile Development",
@@ -202,8 +239,7 @@
         "Devfest İzmir 2023",
         "Devfest Kocaeli 2023",
         "Devfest Trabzon 2023",
-        "Devfest Samsun 2023"
-      ]
+        "Devfest Samsun 2023"]
     }
   ]
 }
