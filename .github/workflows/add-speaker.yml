@@ -6,7 +6,7 @@ on:
 
 jobs:
   add-speaker:
-    if: github.event.label.name == 'approved' && github.event.issue.user.login == 'semihkislar'
+    if: github.event.label.name == 'approved'
     runs-on: ubuntu-latest
     permissions:
       contents: write
