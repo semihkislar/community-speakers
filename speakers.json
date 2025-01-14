@@ -116,15 +116,21 @@
         "pastEvents": ["ETHGlobal 2023", "DeFiCon 2022", "Web3 Summit 2023"]
       },
       {
-        "id": 11,
-        "name": "Isabella Garcia",
-        "expertise": ["Product Management", "Agile", "Strategy"],
-        "bio": "Product leader with expertise in building and scaling digital products across various industries.",
-        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "isabella.garcia@email.com",
-        "linkedin": "linkedin.com/in/isabellagarcia",
-        "twitter": "@isabellapm",
-        "pastEvents": ["ProductCon 2023", "AgileWeek 2022", "Strategy Summit 2023"]
+      "id": 11,
+      "name": "Sarp Remzi Aksu",
+      "expertise": ["Mobile App Development", "Android", "Kotlin", "Jetpack Compose"],
+      "bio": "10 yaşından beri yazılım geliştirmenin içerisinde yer alan öğrenci. Geleceğin Android GDE'si.",
+      "image": "https://ibb.co/vzMXnF8",
+      "email": "sarpremziaksu@gmail.com",
+      "linkedin": "linkedin.com/in/sarpremziaksu",
+      "twitter": "@sarpremziaksu ",
+      "pastEvents": [
+        "DevFest Ankara 2023/2024",
+        "Roboto Conference 2024",
+        "Mobile @Scale 2024",
+        "Android Worldwide Nisan/Temmuz 2024",
+        "DevFest İzmir 2023"
+      ]
       },
       {
         "id": 12,
