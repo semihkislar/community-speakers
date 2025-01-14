@@ -1,7 +1,6 @@
 {
   "speakers": [
     {
-      "id": 1,
       "name": "Semih Kışlar",
       "expertise": [
         "Web Development",
@@ -18,7 +17,6 @@
       ]
     },
     {
-      "id": 2,
       "name": "Bora Biricik",
       "expertise": [
         "Web Development",
@@ -38,7 +36,6 @@
       ]
     },
     {
-      "id": 3,
       "name": "Orhan Özkerçin",
       "expertise": [
         "Web Development",
@@ -59,7 +56,6 @@
       ]
     },
     {
-      "id": 4,
       "name": "Emre Bozkurt",
       "expertise": [
         "Backend Development",
@@ -77,7 +73,6 @@
       ]
     },
     {
-      "id": 5,
       "name": "Ilker Ulusoy",
       "expertise": [
         "Mobile Application Development",
@@ -92,7 +87,6 @@
       "pastEvents": []
     },
     {
-      "id": 6,
       "name": "Marcus Williams",
       "expertise": [
         "Robotics",
@@ -111,7 +105,6 @@
       ]
     },
     {
-      "id": 7,
       "name": "Sofia Rodriguez",
       "expertise": [
         "UX Research",
@@ -130,7 +123,6 @@
       ]
     },
     {
-      "id": 8,
       "name": "Daniel Kim",
       "expertise": [
         "Mobile Development",
@@ -149,7 +141,6 @@
       ]
     },
     {
-      "id": 9,
       "name": "Emma Wilson",
       "expertise": [
         "Cloud Architecture",
@@ -168,7 +159,6 @@
       ]
     },
     {
-      "id": 10,
       "name": "Raj Patel",
       "expertise": [
         "Blockchain",
@@ -187,7 +177,6 @@
       ]
     },
     {
-      "id": 11,
       "name": "Sarp Remzi Aksu",
       "expertise": [
         "Mobile App Development",
@@ -209,7 +198,6 @@
       ]
     },
     {
-      "id": 12,
       "name": "Lucas Schmidt",
       "expertise": [
         "Game Development",
@@ -228,7 +216,6 @@
       ]
     },
     {
-      "id": 13,
       "name": "Sophia Lee",
       "expertise": [
         "UI/UX Design",
@@ -247,7 +234,6 @@
       ]
     },
     {
-      "id": 14,
       "name": "Omar Hassan",
       "expertise": [
         "Cybersecurity",
@@ -266,7 +252,6 @@
       ]
     },
     {
-      "id": 15,
       "name": "Nina Petrova",
       "expertise": [
         "Data Science",
@@ -274,7 +259,7 @@
         "Deep Learning"
       ],
       "bio": "Data scientist specializing in natural language processing and deep learning applications.",
-      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e921857?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       "email": "nina.petrova@email.com",
       "linkedin": "linkedin.com/in/ninapetrova",
       "twitter": "@ninadata",
@@ -285,7 +270,6 @@
       ]
     },
     {
-      "id": 16,
       "name": "Carlos Mendoza",
       "expertise": [
         "DevOps",
@@ -304,7 +288,6 @@
       ]
     },
     {
-      "id": 17,
       "name": "Aisha Khan",
       "expertise": [
         "Frontend Development",
@@ -323,7 +306,6 @@
       ]
     },
     {
-      "id": 18,
       "name": "Thomas Weber",
       "expertise": [
         "IoT",
@@ -342,7 +324,6 @@
       ]
     },
     {
-      "id": 19,
       "name": "Maya Patel",
       "expertise": [
         "Growth Marketing",
@@ -361,7 +342,6 @@
       ]
     },
     {
-      "id": 20,
       "name": "David Anderson",
       "expertise": [
         "System Architecture",
@@ -380,7 +360,6 @@
       ]
     },
     {
-      "id": 21,
       "name": "Julia Santos",
       "expertise": [
         "Android Development",
@@ -399,7 +378,6 @@
       ]
     },
     {
-      "id": 22,
       "name": "Ryan Zhang",
       "expertise": [
         "Machine Learning",
@@ -418,7 +396,6 @@
       ]
     },
     {
-      "id": 23,
       "name": "Laura Fischer",
       "expertise": [
         "Technical Writing",
@@ -437,7 +414,6 @@
       ]
     },
     {
-      "id": 24,
       "name": "Ahmed Hassan",
       "expertise": [
         "Backend Development",
@@ -456,7 +432,6 @@
       ]
     },
     {
-      "id": 25,
       "name": "Rachel Chen",
       "expertise": [
         "Product Design",
@@ -475,7 +450,6 @@
       ]
     },
     {
-      "id": 26,
       "name": "Marco Rossi",
       "expertise": [
         "Database Design",
@@ -494,7 +468,6 @@
       ]
     },
     {
-      "id": 27,
       "name": "Samantha Lee",
       "expertise": [
         "Digital Transformation",
@@ -513,7 +486,6 @@
       ]
     },
     {
-      "id": 28,
       "name": "Victor Nguyen",
       "expertise": [
         "Mobile Game Development",
@@ -532,7 +504,6 @@
       ]
     },
     {
-      "id": 29,
       "name": "Zara Khan",
       "expertise": [
         "Information Security",
@@ -551,7 +522,6 @@
       ]
     },
     {
-      "id": 30,
       "name": "Benjamin Taylor",
       "expertise": [
         "Software Architecture",
@@ -570,7 +540,6 @@
       ]
     },
     {
-      "id": 31,
       "name": "Abdulkerim Karaman",
       "expertise": [
         "React",
@@ -592,7 +561,6 @@
       ]
     },
     {
-      "id": 32,
       "name": "Hüseyin Altıntaş",
       "expertise": [
         "Cyber Security",
@@ -616,7 +584,6 @@
       ]
     },
     {
-      "id": 33,
       "name": "Mehmet Altuğ Akgül",
       "expertise": [
         "Cloud Engineering",
