@@ -1,31 +1,51 @@
 {
-    "speakers": [
-      {
-        "id": 1,
-        "name": "Semih Kışlar",
-        "expertise": ["Web Development", "JavaScript", "Node.js"],
-        "bio": "Community Manager @Teknasyon, Founder @Bursa Bilişim Topluluğu",
-        "image": "https://bursa.dev/images/team/semih-kislar.jpg",
-        "email": "semihkislar@gmail.com",
-        "linkedin": "linkedin.com/in/semihkislar",
-        "twitter": "@semiyann",
-        "pastEvents": ["DevFest Tashkent"]
-      },
-      {
-        "id": 2,
-        "name": "Bora Biricik",
-        "expertise": ["Web Development", "JavaScript", "React", "Node.js"],
-        "bio": "Bora Biricik, 2020'dan beri aktif Front-End Geliştiricilik yapmakta ve paralelinde diğer JavaScript teknolojileri üzerine çalışmalar yapıp açık kaynağa destek vermektedir.",
-        "image": "https://bursa.dev/images/team/bora-biricik.png",
-        "email": "bora@biricik.dev",
-        "linkedin": "linkedin.com/in/bora-biricik",
-        "twitter": "@biricik_js",
-        "pastEvents": ["Bursa Bilişim Topluluğu: React 101 (Workshop)", "Bursa Bilişim Topluluğu: Framer Motion ile Animasyon (Workshop)", "GDSC Bursa: Yazılım Dünyasına Giriş"]
-      },
-      {
+  "speakers": [
+    {
+      "id": 1,
+      "name": "Semih Kışlar",
+      "expertise": [
+        "Web Development",
+        "JavaScript",
+        "Node.js"
+      ],
+      "bio": "Community Manager @Teknasyon, Founder @Bursa Bilişim Topluluğu",
+      "image": "https://bursa.dev/images/team/semih-kislar.jpg",
+      "email": "semihkislar@gmail.com",
+      "linkedin": "linkedin.com/in/semihkislar",
+      "twitter": "@semiyann",
+      "pastEvents": [
+        "DevFest Tashkent"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bora Biricik",
+      "expertise": [
+        "Web Development",
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "bio": "Bora Biricik, 2020'dan beri aktif Front-End Geliştiricilik yapmakta ve paralelinde diğer JavaScript teknolojileri üzerine çalışmalar yapıp açık kaynağa destek vermektedir.",
+      "image": "https://bursa.dev/images/team/bora-biricik.png",
+      "email": "bora@biricik.dev",
+      "linkedin": "linkedin.com/in/bora-biricik",
+      "twitter": "@biricik_js",
+      "pastEvents": [
+        "Bursa Bilişim Topluluğu: React 101 (Workshop)",
+        "Bursa Bilişim Topluluğu: Framer Motion ile Animasyon (Workshop)",
+        "GDSC Bursa: Yazılım Dünyasına Giriş"
+      ]
+    },
+    {
       "id": 3,
       "name": "Orhan Özkerçin",
-      "expertise": ["Web Development", "JavaScript", "React", "Vue"],
+      "expertise": [
+        "Web Development",
+        "JavaScript",
+        "React",
+        "Vue"
+      ],
       "bio": "Developer @Teknasyon. JavaScript ve etrafında gelişen araçlarla çalışmayı seviyor.",
       "image": "https://orhan.ozkercin.dev/IMG_0469.png",
       "email": "orhan@ozkercin.dev",
@@ -38,302 +58,516 @@
         "Teknasyon Tech Talks"
       ]
     },
-      {
-        "id": 4,
-        "name": "Alex Thompson",
-        "expertise": ["Quantum Computing", "Physics", "Algorithm Design"],
-        "bio": "Quantum computing researcher bridging the gap between theoretical physics and practical computing applications.",
-        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "alex.thompson@email.com",
-        "linkedin": "linkedin.com/in/alexthompson",
-        "twitter": "@quantumalex",
-        "pastEvents": ["QuantumTech 2023", "PhysicsCon 2022", "Q-Bits Summit 2023"]
-      },
-      {
-        "id": 5,
-        "name": "Priya Patel",
-        "expertise": ["Data Analytics", "Business Intelligence", "Visualization"],
-        "bio": "Data analytics expert specializing in transforming complex data into actionable business insights.",
-        "image": "https://images.unsplash.com/photo-1598550874175-4d0ef436c909?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "priya.patel@email.com",
-        "linkedin": "linkedin.com/in/priyapatel",
-        "twitter": "@priyadata",
-        "pastEvents": ["DataCon 2023", "BI Summit 2022", "Analytics Forum 2023"]
-      },
-      {
-        "id": 6,
-        "name": "Marcus Williams",
-        "expertise": ["Robotics", "Automation", "Control Systems"],
-        "bio": "Robotics engineer developing next-generation autonomous systems for industrial applications.",
-        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "marcus.williams@email.com",
-        "linkedin": "linkedin.com/in/marcuswilliams",
-        "twitter": "@roboticsmarcus",
-        "pastEvents": ["RoboticsCon 2023", "AutomationExpo 2022", "Control Systems Summit 2023"]
-      },
-      {
-        "id": 7,
-        "name": "Sofia Rodriguez",
-        "expertise": ["UX Research", "User Testing", "Design Thinking"],
-        "bio": "UX researcher focused on creating user-centered design solutions through empirical research methods.",
-        "image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "sofia.rodriguez@email.com",
-        "linkedin": "linkedin.com/in/sofiarodriguez",
-        "twitter": "@sofiaux",
-        "pastEvents": ["UXWeek 2023", "ResearchCon 2022", "Design Thinking Summit 2023"]
-      },
-      {
-        "id": 8,
-        "name": "Daniel Kim",
-        "expertise": ["Mobile Development", "iOS", "Swift"],
-        "bio": "iOS developer creating innovative mobile experiences with a focus on performance and user engagement.",
-        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "daniel.kim@email.com",
-        "linkedin": "linkedin.com/in/danielkim",
-        "twitter": "@danielios",
-        "pastEvents": ["WWDC 2023", "SwiftCon 2022", "MobileTech Summit 2023"]
-      },
-      {
-        "id": 9,
-        "name": "Emma Wilson",
-        "expertise": ["Cloud Architecture", "AWS", "Serverless"],
-        "bio": "Cloud architect helping organizations build scalable and resilient infrastructure on AWS.",
-        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "emma.wilson@email.com",
-        "linkedin": "linkedin.com/in/emmawilson",
-        "twitter": "@emmacloud",
-        "pastEvents": ["AWS re:Invent 2023", "CloudCon 2022", "Serverless Summit 2023"]
-      },
-      {
-        "id": 10,
-        "name": "Raj Patel",
-        "expertise": ["Blockchain", "DeFi", "Smart Contracts"],
-        "bio": "Blockchain developer building decentralized financial systems and smart contract solutions.",
-        "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "raj.patel@email.com",
-        "linkedin": "linkedin.com/in/rajpatel",
-        "twitter": "@rajblockchain",
-        "pastEvents": ["ETHGlobal 2023", "DeFiCon 2022", "Web3 Summit 2023"]
-      },
-      {
-        "id": 11,
-        "name": "Isabella Garcia",
-        "expertise": ["Product Management", "Agile", "Strategy"],
-        "bio": "Product leader with expertise in building and scaling digital products across various industries.",
-        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "isabella.garcia@email.com",
-        "linkedin": "linkedin.com/in/isabellagarcia",
-        "twitter": "@isabellapm",
-        "pastEvents": ["ProductCon 2023", "AgileWeek 2022", "Strategy Summit 2023"]
-      },
-      {
-        "id": 12,
-        "name": "Lucas Schmidt",
-        "expertise": ["Game Development", "Unity", "AR/VR"],
-        "bio": "Game developer specializing in immersive experiences and virtual reality applications.",
-        "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "lucas.schmidt@email.com",
-        "linkedin": "linkedin.com/in/lucasschmidt",
-        "twitter": "@lucasgamedev",
-        "pastEvents": ["GameDev Con 2023", "Unity Summit 2022", "VR Expo 2023"]
-      },
-      {
-        "id": 13,
-        "name": "Sophia Lee",
-        "expertise": ["UI/UX Design", "Design Systems", "Prototyping"],
-        "bio": "UI/UX designer crafting beautiful and functional digital experiences for global brands.",
-        "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "sophia.lee@email.com",
-        "linkedin": "linkedin.com/in/sophialee",
-        "twitter": "@sophiadesigns",
-        "pastEvents": ["DesignCon 2023", "UX Summit 2022", "Design Systems Forum 2023"]
-      },
-      {
-        "id": 14,
-        "name": "Omar Hassan",
-        "expertise": ["Cybersecurity", "Ethical Hacking", "Security Architecture"],
-        "bio": "Cybersecurity expert protecting organizations through advanced threat detection and prevention.",
-        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "omar.hassan@email.com",
-        "linkedin": "linkedin.com/in/omarhassan",
-        "twitter": "@omarsecurity",
-        "pastEvents": ["BlackHat 2023", "DefCon 2022", "Security Summit 2023"]
-      },
-      {
-        "id": 15,
-        "name": "Nina Petrova",
-        "expertise": ["Data Science", "NLP", "Deep Learning"],
-        "bio": "Data scientist specializing in natural language processing and deep learning applications.",
-        "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "nina.petrova@email.com",
-        "linkedin": "linkedin.com/in/ninapetrova",
-        "twitter": "@ninadata",
-        "pastEvents": ["AI Conference 2023", "NLP Summit 2022", "Deep Learning Forum 2023"]
-      },
-      {
-        "id": 16,
-        "name": "Carlos Mendoza",
-        "expertise": ["DevOps", "Kubernetes", "Microservices"],
-        "bio": "DevOps engineer streamlining development workflows and implementing containerization solutions.",
-        "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "carlos.mendoza@email.com",
-        "linkedin": "linkedin.com/in/carlosmendoza",
-        "twitter": "@carlosdevops",
-        "pastEvents": ["KubeCon 2023", "DevOpsDays 2022", "Container Summit 2023"]
-      },
-      {
-        "id": 17,
-        "name": "Aisha Khan",
-        "expertise": ["Frontend Development", "Vue.js", "Web Performance"],
-        "bio": "Frontend developer creating fast and accessible web applications with modern frameworks.",
-        "image": "https://images.unsplash.com/photo-1548142813-c348350df52b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "aisha.khan@email.com",
-        "linkedin": "linkedin.com/in/aishakhan",
-        "twitter": "@aishawebdev",
-        "pastEvents": ["VueConf 2023", "WebPerf Summit 2022", "Frontend Forum 2023"]
-      },
-      {
-        "id": 18,
-        "name": "Thomas Weber",
-        "expertise": ["IoT", "Embedded Systems", "Hardware Design"],
-        "bio": "IoT specialist developing smart devices and embedded solutions for industrial applications.",
-        "image": "https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "thomas.weber@email.com",
-        "linkedin": "linkedin.com/in/thomasweber",
-        "twitter": "@thomasiot",
-        "pastEvents": ["IoT World 2023", "Embedded Con 2022", "Hardware Summit 2023"]
-      },
-      {
-        "id": 19,
-        "name": "Maya Patel",
-        "expertise": ["Growth Marketing", "Analytics", "CRO"],
-        "bio": "Growth marketer driving user acquisition and retention through data-driven strategies.",
-        "image": "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "maya.patel@email.com",
-        "linkedin": "linkedin.com/in/mayapatel",
-        "twitter": "@mayagrowth",
-        "pastEvents": ["GrowthHackers 2023", "CRO Day 2022", "Analytics Summit 2023"]
-      },
-      {
-        "id": 20,
-        "name": "David Anderson",
-        "expertise": ["System Architecture", "Scalability", "Distributed Systems"],
-        "bio": "System architect designing scalable and resilient distributed systems for enterprise applications.",
-        "image": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "david.anderson@email.com",
-        "linkedin": "linkedin.com/in/davidanderson",
-        "twitter": "@davidsysarch",
-        "pastEvents": ["ArchCon 2023", "ScaleSummit 2022", "Distributed Systems Forum 2023"]
-      },
-      {
-        "id": 21,
-        "name": "Julia Santos",
-        "expertise": ["Android Development", "Kotlin", "Mobile Architecture"],
-        "bio": "Android developer creating robust and user-friendly mobile applications with modern technologies.",
-        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "julia.santos@email.com",
-        "linkedin": "linkedin.com/in/juliasantos",
-        "twitter": "@juliaandroid",
-        "pastEvents": ["Android Dev Summit 2023", "KotlinConf 2022", "Mobile Summit 2023"]
-      },
-      {
-        "id": 22,
-        "name": "Ryan Zhang",
-        "expertise": ["Machine Learning", "Computer Vision", "Neural Networks"],
-        "bio": "Machine learning researcher developing cutting-edge computer vision solutions for autonomous systems.",
-        "image": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "ryan.zhang@email.com",
-        "linkedin": "linkedin.com/in/ryanzhang",
-        "twitter": "@ryanml",
-        "pastEvents": ["CVPR 2023", "ML Summit 2022", "AI Conference 2023"]
-      },
-      {
-        "id": 23,
-        "name": "Laura Fischer",
-        "expertise": ["Technical Writing", "Documentation", "API Design"],
-        "bio": "Technical writer specializing in creating clear and comprehensive documentation for complex systems.",
-        "image": "https://images.unsplash.com/photo-1598550880863-4e8aa3d0edb4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "laura.fischer@email.com",
-        "linkedin": "linkedin.com/in/laurafischer",
-        "twitter": "@lauradocs",
-        "pastEvents": ["Write the Docs 2023", "API Summit 2022", "Documentation Forum 2023"]
-      },
-      {
-        "id": 24,
-        "name": "Ahmed Hassan",
-        "expertise": ["Backend Development", "Python", "Django"],
-        "bio": "Backend developer building scalable web services and APIs using Python and Django.",
-        "image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "ahmed.hassan@email.com",
-        "linkedin": "linkedin.com/in/ahmedhassan",
-        "twitter": "@ahmedpy",
-        "pastEvents": ["PyCon 2023", "DjangoCon 2022", "Backend Summit 2023"]
-      },
-      {
-        "id": 25,
-        "name": "Rachel Chen",
-        "expertise": ["Product Design", "Interaction Design", "Design Leadership"],
-        "bio": "Product designer leading design teams and creating innovative digital products.",
-        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "rachel.chen@email.com",
-        "linkedin": "linkedin.com/in/rachelchen",
-        "twitter": "@racheldesigns",
-        "pastEvents": ["Design Leadership 2023", "Product Design Summit 2022", "UX Conference 2023"]
-      },
-      {
-        "id": 26,
-        "name": "Marco Rossi",
-        "expertise": ["Database Design", "PostgreSQL", "Data Modeling"],
-        "bio": "Database architect optimizing data structures and query performance for large-scale applications.",
-        "image": "https://images.unsplash.com/photo-1548449112-96a38a643324?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "marco.rossi@email.com",
-        "linkedin": "linkedin.com/in/marcorossi",
-        "twitter": "@marcodb",
-        "pastEvents": ["PostgreSQL Conference 2023", "Database Summit 2022", "Data Modeling Forum 2023"]
-      },
-      {
-        "id": 27,
-        "name": "Samantha Lee",
-        "expertise": ["Digital Transformation", "Change Management", "Enterprise Architecture"],
-        "bio": "Digital transformation consultant helping organizations navigate technological change.",
-        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "samantha.lee@email.com",
-        "linkedin": "linkedin.com/in/samanthalee",
-        "twitter": "@samanthadigital",
-        "pastEvents": ["Digital Enterprise 2023", "Change Management Summit 2022", "Enterprise Forum 2023"]
-      },
-      {
-        "id": 28,
-        "name": "Victor Nguyen",
-        "expertise": ["Mobile Game Development", "Unity 3D", "Game Design"],
-        "bio": "Game developer creating engaging mobile gaming experiences with Unity 3D.",
-        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "victor.nguyen@email.com",
-        "linkedin": "linkedin.com/in/victornguyen",
-        "twitter": "@victorgames",
-        "pastEvents": ["GameDev Summit 2023", "Unity Conference 2022", "Mobile Gaming Forum 2023"]
-      },
-      {
-        "id": 29,
-        "name": "Zara Khan",
-        "expertise": ["Information Security", "Risk Management", "Compliance"],
-        "bio": "Information security expert ensuring data protection and regulatory compliance.",
-        "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "zara.khan@email.com",
-        "linkedin": "linkedin.com/in/zarakhan",
-        "twitter": "@zarasecurity",
-        "pastEvents": ["InfoSec World 2023", "Risk Management Summit 2022", "Compliance Forum 2023"]
-      },
-      {
-        "id": 30,
-        "name": "Benjamin Taylor",
-        "expertise": ["Software Architecture", "Microservices", "Event-Driven Design"],
-        "bio": "Software architect designing modern, scalable systems using microservices architecture.",
-        "image": "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "benjamin.taylor@email.com",
-        "linkedin": "linkedin.com/in/benjamintaylor",
-        "twitter": "@benarchitect",
-        "pastEvents": ["ArchSummit 2023", "Microservices Con 2022", "Software Design Forum 2023"]
-      }
-    ]
-  } 
+    {
+      "id": 4,
+      "name": "Salih Başak",
+      "expertise": [
+        "Backend Development",
+        "PHP",
+        "Go"
+      ],
+      "bio": "Developer @Teknasyon. 2018'den beri aktif backend geliştirmekte ve B2C projelerde yer almaktadır.",
+      "image": "https://imgur.com/a/EnWMfkK",
+      "email": "salihbasakk@gmail.com",
+      "linkedin": "linkedin.com/in/salihbasakk",
+      "twitter": "@salihbasakk ",
+      "pastEvents": [
+        "Bursa Bilişim Topluluğu: Legacy Reboot: PHP to Go Transition (Workshop)"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Priya Patel",
+      "expertise": [
+        "Data Analytics",
+        "Business Intelligence",
+        "Visualization"
+      ],
+      "bio": "Data analytics expert specializing in transforming complex data into actionable business insights.",
+      "image": "https://images.unsplash.com/photo-1598550874175-4d0ef436c909?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "priya.patel@email.com",
+      "linkedin": "linkedin.com/in/priyapatel",
+      "twitter": "@priyadata",
+      "pastEvents": [
+        "DataCon 2023",
+        "BI Summit 2022",
+        "Analytics Forum 2023"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Marcus Williams",
+      "expertise": [
+        "Robotics",
+        "Automation",
+        "Control Systems"
+      ],
+      "bio": "Robotics engineer developing next-generation autonomous systems for industrial applications.",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "marcus.williams@email.com",
+      "linkedin": "linkedin.com/in/marcuswilliams",
+      "twitter": "@roboticsmarcus",
+      "pastEvents": [
+        "RoboticsCon 2023",
+        "AutomationExpo 2022",
+        "Control Systems Summit 2023"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sofia Rodriguez",
+      "expertise": [
+        "UX Research",
+        "User Testing",
+        "Design Thinking"
+      ],
+      "bio": "UX researcher focused on creating user-centered design solutions through empirical research methods.",
+      "image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "sofia.rodriguez@email.com",
+      "linkedin": "linkedin.com/in/sofiarodriguez",
+      "twitter": "@sofiaux",
+      "pastEvents": [
+        "UXWeek 2023",
+        "ResearchCon 2022",
+        "Design Thinking Summit 2023"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Daniel Kim",
+      "expertise": [
+        "Mobile Development",
+        "iOS",
+        "Swift"
+      ],
+      "bio": "iOS developer creating innovative mobile experiences with a focus on performance and user engagement.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "daniel.kim@email.com",
+      "linkedin": "linkedin.com/in/danielkim",
+      "twitter": "@danielios",
+      "pastEvents": [
+        "WWDC 2023",
+        "SwiftCon 2022",
+        "MobileTech Summit 2023"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Emma Wilson",
+      "expertise": [
+        "Cloud Architecture",
+        "AWS",
+        "Serverless"
+      ],
+      "bio": "Cloud architect helping organizations build scalable and resilient infrastructure on AWS.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "emma.wilson@email.com",
+      "linkedin": "linkedin.com/in/emmawilson",
+      "twitter": "@emmacloud",
+      "pastEvents": [
+        "AWS re:Invent 2023",
+        "CloudCon 2022",
+        "Serverless Summit 2023"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Raj Patel",
+      "expertise": [
+        "Blockchain",
+        "DeFi",
+        "Smart Contracts"
+      ],
+      "bio": "Blockchain developer building decentralized financial systems and smart contract solutions.",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "raj.patel@email.com",
+      "linkedin": "linkedin.com/in/rajpatel",
+      "twitter": "@rajblockchain",
+      "pastEvents": [
+        "ETHGlobal 2023",
+        "DeFiCon 2022",
+        "Web3 Summit 2023"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Isabella Garcia",
+      "expertise": [
+        "Product Management",
+        "Agile",
+        "Strategy"
+      ],
+      "bio": "Product leader with expertise in building and scaling digital products across various industries.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "isabella.garcia@email.com",
+      "linkedin": "linkedin.com/in/isabellagarcia",
+      "twitter": "@isabellapm",
+      "pastEvents": [
+        "ProductCon 2023",
+        "AgileWeek 2022",
+        "Strategy Summit 2023"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Lucas Schmidt",
+      "expertise": [
+        "Game Development",
+        "Unity",
+        "AR/VR"
+      ],
+      "bio": "Game developer specializing in immersive experiences and virtual reality applications.",
+      "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "lucas.schmidt@email.com",
+      "linkedin": "linkedin.com/in/lucasschmidt",
+      "twitter": "@lucasgamedev",
+      "pastEvents": [
+        "GameDev Con 2023",
+        "Unity Summit 2022",
+        "VR Expo 2023"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Sophia Lee",
+      "expertise": [
+        "UI/UX Design",
+        "Design Systems",
+        "Prototyping"
+      ],
+      "bio": "UI/UX designer crafting beautiful and functional digital experiences for global brands.",
+      "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "sophia.lee@email.com",
+      "linkedin": "linkedin.com/in/sophialee",
+      "twitter": "@sophiadesigns",
+      "pastEvents": [
+        "DesignCon 2023",
+        "UX Summit 2022",
+        "Design Systems Forum 2023"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Omar Hassan",
+      "expertise": [
+        "Cybersecurity",
+        "Ethical Hacking",
+        "Security Architecture"
+      ],
+      "bio": "Cybersecurity expert protecting organizations through advanced threat detection and prevention.",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "omar.hassan@email.com",
+      "linkedin": "linkedin.com/in/omarhassan",
+      "twitter": "@omarsecurity",
+      "pastEvents": [
+        "BlackHat 2023",
+        "DefCon 2022",
+        "Security Summit 2023"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Nina Petrova",
+      "expertise": [
+        "Data Science",
+        "NLP",
+        "Deep Learning"
+      ],
+      "bio": "Data scientist specializing in natural language processing and deep learning applications.",
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "nina.petrova@email.com",
+      "linkedin": "linkedin.com/in/ninapetrova",
+      "twitter": "@ninadata",
+      "pastEvents": [
+        "AI Conference 2023",
+        "NLP Summit 2022",
+        "Deep Learning Forum 2023"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Carlos Mendoza",
+      "expertise": [
+        "DevOps",
+        "Kubernetes",
+        "Microservices"
+      ],
+      "bio": "DevOps engineer streamlining development workflows and implementing containerization solutions.",
+      "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "carlos.mendoza@email.com",
+      "linkedin": "linkedin.com/in/carlosmendoza",
+      "twitter": "@carlosdevops",
+      "pastEvents": [
+        "KubeCon 2023",
+        "DevOpsDays 2022",
+        "Container Summit 2023"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Aisha Khan",
+      "expertise": [
+        "Frontend Development",
+        "Vue.js",
+        "Web Performance"
+      ],
+      "bio": "Frontend developer creating fast and accessible web applications with modern frameworks.",
+      "image": "https://images.unsplash.com/photo-1548142813-c348350df52b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "aisha.khan@email.com",
+      "linkedin": "linkedin.com/in/aishakhan",
+      "twitter": "@aishawebdev",
+      "pastEvents": [
+        "VueConf 2023",
+        "WebPerf Summit 2022",
+        "Frontend Forum 2023"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Thomas Weber",
+      "expertise": [
+        "IoT",
+        "Embedded Systems",
+        "Hardware Design"
+      ],
+      "bio": "IoT specialist developing smart devices and embedded solutions for industrial applications.",
+      "image": "https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "thomas.weber@email.com",
+      "linkedin": "linkedin.com/in/thomasweber",
+      "twitter": "@thomasiot",
+      "pastEvents": [
+        "IoT World 2023",
+        "Embedded Con 2022",
+        "Hardware Summit 2023"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Maya Patel",
+      "expertise": [
+        "Growth Marketing",
+        "Analytics",
+        "CRO"
+      ],
+      "bio": "Growth marketer driving user acquisition and retention through data-driven strategies.",
+      "image": "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "maya.patel@email.com",
+      "linkedin": "linkedin.com/in/mayapatel",
+      "twitter": "@mayagrowth",
+      "pastEvents": [
+        "GrowthHackers 2023",
+        "CRO Day 2022",
+        "Analytics Summit 2023"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "David Anderson",
+      "expertise": [
+        "System Architecture",
+        "Scalability",
+        "Distributed Systems"
+      ],
+      "bio": "System architect designing scalable and resilient distributed systems for enterprise applications.",
+      "image": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "david.anderson@email.com",
+      "linkedin": "linkedin.com/in/davidanderson",
+      "twitter": "@davidsysarch",
+      "pastEvents": [
+        "ArchCon 2023",
+        "ScaleSummit 2022",
+        "Distributed Systems Forum 2023"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Julia Santos",
+      "expertise": [
+        "Android Development",
+        "Kotlin",
+        "Mobile Architecture"
+      ],
+      "bio": "Android developer creating robust and user-friendly mobile applications with modern technologies.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "julia.santos@email.com",
+      "linkedin": "linkedin.com/in/juliasantos",
+      "twitter": "@juliaandroid",
+      "pastEvents": [
+        "Android Dev Summit 2023",
+        "KotlinConf 2022",
+        "Mobile Summit 2023"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Ryan Zhang",
+      "expertise": [
+        "Machine Learning",
+        "Computer Vision",
+        "Neural Networks"
+      ],
+      "bio": "Machine learning researcher developing cutting-edge computer vision solutions for autonomous systems.",
+      "image": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "ryan.zhang@email.com",
+      "linkedin": "linkedin.com/in/ryanzhang",
+      "twitter": "@ryanml",
+      "pastEvents": [
+        "CVPR 2023",
+        "ML Summit 2022",
+        "AI Conference 2023"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Laura Fischer",
+      "expertise": [
+        "Technical Writing",
+        "Documentation",
+        "API Design"
+      ],
+      "bio": "Technical writer specializing in creating clear and comprehensive documentation for complex systems.",
+      "image": "https://images.unsplash.com/photo-1598550880863-4e8aa3d0edb4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "laura.fischer@email.com",
+      "linkedin": "linkedin.com/in/laurafischer",
+      "twitter": "@lauradocs",
+      "pastEvents": [
+        "Write the Docs 2023",
+        "API Summit 2022",
+        "Documentation Forum 2023"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Ahmed Hassan",
+      "expertise": [
+        "Backend Development",
+        "Python",
+        "Django"
+      ],
+      "bio": "Backend developer building scalable web services and APIs using Python and Django.",
+      "image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "ahmed.hassan@email.com",
+      "linkedin": "linkedin.com/in/ahmedhassan",
+      "twitter": "@ahmedpy",
+      "pastEvents": [
+        "PyCon 2023",
+        "DjangoCon 2022",
+        "Backend Summit 2023"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Rachel Chen",
+      "expertise": [
+        "Product Design",
+        "Interaction Design",
+        "Design Leadership"
+      ],
+      "bio": "Product designer leading design teams and creating innovative digital products.",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "rachel.chen@email.com",
+      "linkedin": "linkedin.com/in/rachelchen",
+      "twitter": "@racheldesigns",
+      "pastEvents": [
+        "Design Leadership 2023",
+        "Product Design Summit 2022",
+        "UX Conference 2023"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Marco Rossi",
+      "expertise": [
+        "Database Design",
+        "PostgreSQL",
+        "Data Modeling"
+      ],
+      "bio": "Database architect optimizing data structures and query performance for large-scale applications.",
+      "image": "https://images.unsplash.com/photo-1548449112-96a38a643324?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "marco.rossi@email.com",
+      "linkedin": "linkedin.com/in/marcorossi",
+      "twitter": "@marcodb",
+      "pastEvents": [
+        "PostgreSQL Conference 2023",
+        "Database Summit 2022",
+        "Data Modeling Forum 2023"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Samantha Lee",
+      "expertise": [
+        "Digital Transformation",
+        "Change Management",
+        "Enterprise Architecture"
+      ],
+      "bio": "Digital transformation consultant helping organizations navigate technological change.",
+      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "samantha.lee@email.com",
+      "linkedin": "linkedin.com/in/samanthalee",
+      "twitter": "@samanthadigital",
+      "pastEvents": [
+        "Digital Enterprise 2023",
+        "Change Management Summit 2022",
+        "Enterprise Forum 2023"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Victor Nguyen",
+      "expertise": [
+        "Mobile Game Development",
+        "Unity 3D",
+        "Game Design"
+      ],
+      "bio": "Game developer creating engaging mobile gaming experiences with Unity 3D.",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "victor.nguyen@email.com",
+      "linkedin": "linkedin.com/in/victornguyen",
+      "twitter": "@victorgames",
+      "pastEvents": [
+        "GameDev Summit 2023",
+        "Unity Conference 2022",
+        "Mobile Gaming Forum 2023"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Zara Khan",
+      "expertise": [
+        "Information Security",
+        "Risk Management",
+        "Compliance"
+      ],
+      "bio": "Information security expert ensuring data protection and regulatory compliance.",
+      "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "zara.khan@email.com",
+      "linkedin": "linkedin.com/in/zarakhan",
+      "twitter": "@zarasecurity",
+      "pastEvents": [
+        "InfoSec World 2023",
+        "Risk Management Summit 2022",
+        "Compliance Forum 2023"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Benjamin Taylor",
+      "expertise": [
+        "Software Architecture",
+        "Microservices",
+        "Event-Driven Design"
+      ],
+      "bio": "Software architect designing modern, scalable systems using microservices architecture.",
+      "image": "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "email": "benjamin.taylor@email.com",
+      "linkedin": "linkedin.com/in/benjamintaylor",
+      "twitter": "@benarchitect",
+      "pastEvents": [
+        "ArchSummit 2023",
+        "Microservices Con 2022",
+        "Software Design Forum 2023"
+      ]
+    }
+  ]
+}
