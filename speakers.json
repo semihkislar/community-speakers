@@ -334,6 +334,17 @@
         "linkedin": "linkedin.com/in/benjamintaylor",
         "twitter": "@benarchitect",
         "pastEvents": ["ArchSummit 2023", "Microservices Con 2022", "Software Design Forum 2023"]
+      },
+      {
+        "id": 31,
+        "name": "Abdulkerim Karaman",
+        "expertise": ["React", "React Native", "Software Architecture", "Microservices", "Micro Frontends"],
+        "bio": "Financial and banking applications manager on mobile platform. Technology writer on Medium",
+        "image": "https://images.unsplash.com/photo-1736803515812-16f3b219f4ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "email": "abdulkerimkaraman@gmail.com",
+        "linkedin": "linkedin.com/in/abdulkerimkaraman",
+        "twitter": "@kerimkaraman24",
+        "pastEvents": ["DevFest", "DevNot", "Deneyap", "IBB Mobil App event"]
       }
     ]
   } 
