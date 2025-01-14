@@ -9,7 +9,6 @@ A collaborative repository for maintaining a list of community speakers in the t
 
 ```json
 {
-        "id": 1,
         "name": "Semih Kışlar",
         "expertise": ["Artificial Intelligence", "Machine Learning", "Data Science"],
         "bio": "Developer Relations Specialist at Teknasyon, Founder of Bursa Bilişim Topluluğu",
@@ -18,7 +17,6 @@ A collaborative repository for maintaining a list of community speakers in the t
         "linkedin": "linkedin.com/in/semihkislar",
         "twitter": "@semiyann",
         "pastEvents": ["TechCon 2023", "AI Summit 2022", "Data Science Forum 2023"],
-        "rating": 4.9
 }
 ```
 
