@@ -259,5 +259,22 @@
         "JSKonf İstanbul 2024"
       ]
     },
+    {
+      "name": "Mert Gölcü",
+      "expertise": [
+        "Mobile App Development",
+        "Android",
+        "NodeJS",
+        "Python",
+        "Java",
+        "Kotlin"
+      ],
+      "bio": "Software Engineer at GarantiBBVA",
+      "image": "https://pbs.twimg.com/profile_images/1861665633009553408/v6bJ_9hg_400x400.jpg",
+      "email": "mgolcu00@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mert-golcu-87615b175/",
+      "twitter": "golcu_mert",
+      "pastEvents": [      ]
+    }
   ]
 }
