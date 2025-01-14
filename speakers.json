@@ -240,6 +240,24 @@
         "Devfest Kocaeli 2023",
         "Devfest Trabzon 2023",
         "Devfest Samsun 2023"]
-    }
+    },
+    {
+      "name": "Büşra Diba Aktaş",
+      "expertise": [
+        "Web Development",
+        "JavaScript",
+        "React",
+        "NextJS"
+      ],
+      "bio": "Frontend Engineer at Bilira Kripto | Organizer at Istanbul Javascript Community | Technology writer on Medium",
+      "image": "https://miro.medium.com/v2/resize:fill:176:176/1*LpWjlLbgdj_PJcUU4udoFg@2x.jpeg",
+      "email": "busradibaaktas@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/dbusraktas/",
+      "twitter": "dbusraktas",
+      "pastEvents": [
+        "Hello Talks 2023",
+        "JSKonf İstanbul 2024"
+      ]
+    },
   ]
 }
