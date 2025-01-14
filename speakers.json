@@ -219,6 +219,27 @@
         "DevFest Ankara",
         "DevFest Tashkent"
       ]
+    },
+    {
+      "name": "Gizem Malçok",
+      "expertise": [
+        "Mobile Development",
+        "Flutter",
+        "Dart",
+        "Swift",
+        "SwiftUI"
+      ],
+      "bio": "Senior Flutter Developer @freesia.ai | Professional Scrum Master | Google WTM Ambassador",
+      "image": "https://i.imgur.com/SIoe1R5.jpeg",
+      "email": "gzm.mlck94@gmail.com",
+      "linkedin": "linkedin.com/in/gizemmalcok/",
+      "twitter": "@gizemnoktapk",
+      "pastEvents": [
+        "Devfest WTM Google Office",
+        "Devfest İzmir 2023",
+        "Devfest Kocaeli 2023",
+        "Devfest Trabzon 2023",
+        "Devfest Samsun 2023"]
     }
   ]
 }
