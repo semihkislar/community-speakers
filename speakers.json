@@ -308,6 +308,29 @@
       "linkedin": "https",
       "twitter": "https",
       "pastEvents": []
+    },
+    {
+      "name": "Kaan Enes KAPICI",
+      "expertise": [
+        "Mobile App Development",
+        "Kotlin",
+        "Java",
+        "Android"
+      ],
+      "bio": "Senior Android Developer @Turk Telekom/Innova Bilisim",
+      "image": "https://drive.google.com/file/d/1DVbWq9vSoXOhg_rng8r97hqrzy2suVHa/view?usp=drivesdk",
+      "email": "kaaneneskpc1@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/kaaneneskpc/",
+      "twitter": "@kaaneneskpc",
+      "pastEvents": [
+        "Devfest Konya",
+        "Devfest Bursa",
+        "Devfest Kütahya",
+        "Devfest Kastamonu",
+        "Devfest Samsun",
+        "Devfest Kırklareli",
+        "Devfest Tekirdağ",
+      ]
     }
   ]
 }
