@@ -239,7 +239,8 @@
         "Devfest İzmir 2023",
         "Devfest Kocaeli 2023",
         "Devfest Trabzon 2023",
-        "Devfest Samsun 2023"]
+        "Devfest Samsun 2023"
+      ]
     },
     {
       "name": "Büşra Diba Aktaş",
@@ -276,9 +277,9 @@
         "RailsGirls Ankara",
         "19 Mayıs Üniversitesi IEEE Kulübü Kariyer Günleri"
       ]
-    },    
+    },
     {
-       "name": "Mert Gölcü",
+      "name": "Mert Gölcü",
       "expertise": [
         "Mobile App Development",
         "Android",
@@ -292,7 +293,21 @@
       "email": "mgolcu00@gmail.com",
       "linkedin": "https://www.linkedin.com/in/mert-golcu-87615b175/",
       "twitter": "golcu_mert",
-      "pastEvents": [      ]
+      "pastEvents": []
+    },
+    {
+      "name": "Doğan Aydın",
+      "expertise": [
+        "Python",
+        "Go",
+        "Ruby"
+      ],
+      "bio": "Software Developer",
+      "image": "https://i.ibb.co/HdBMG49/w-Ln-UQRi-Q-400x400.jpg",
+      "email": "doganaydin@outlook.com",
+      "linkedin": "https",
+      "twitter": "https",
+      "pastEvents": []
     }
   ]
 }
