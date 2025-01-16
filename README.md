@@ -9,14 +9,14 @@ A collaborative repository for maintaining a list of community speakers in the t
 
 ```json
 {
-        "name": "Semih Kışlar",
-        "expertise": ["Artificial Intelligence", "Machine Learning", "Data Science"],
-        "bio": "Developer Relations Specialist at Teknasyon, Founder of Bursa Bilişim Topluluğu",
-        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-        "email": "semih@bursa.dev",
-        "linkedin": "linkedin.com/in/semihkislar",
-        "twitter": "@semiyann",
-        "pastEvents": ["TechCon 2023", "AI Summit 2022", "Data Science Forum 2023"],
+        "name": "Eyüp Ece",
+        "expertise": ["React", "Artificial Intelligence", "Effective University Life Management"],
+        "bio": "Software Engineer at Arhitecht, Facilitator at GDG on Campus Türkiye",
+        "image": "https://unsplash.com/photos/CEtU26CY3hg",
+        "email": "eceeyupp@gmail.com",
+        "linkedin": "linkedin.com/in/eyupece",
+        "twitter": "@eyupece_",
+        "pastEvents": [],
 }
 ```
 
