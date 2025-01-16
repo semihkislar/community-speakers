@@ -375,6 +375,21 @@
         "DevFest Çanakkale",
         "Devfest Bakü"
       ]
-    }
+    },
+    {
+      "name": "Eyüp Ece",
+      "expertise": [
+        "React",
+        "Microservices",
+        "Artificial Intelligence",
+        "Effective University Life Management"
+      ],
+      "bio": "Software Engineer at Architecht, Facilitator at GDG on Campus Türkiye",
+      "image": "https://unsplash.com/photos/CEtU26CY3hg",
+      "email": "eceeyupp@gmail.com",
+      "linkedin": "linkedin.com/in/eyupece",
+      "twitter": "",
+      "pastEvents": []
+    },
   ]
 }
