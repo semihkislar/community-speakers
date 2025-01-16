@@ -32,7 +32,7 @@ A collaborative repository for maintaining a list of community speakers in the t
 
 ## Usage
 
-This repository's data is used to populate the community speaker page at [your-website-url]. Event organizers can browse through the list to find speakers for their events.
+This repository's data is used to populate the community speaker page at [Speaker Hub](https://community-speaker.vercel.app/). Event organizers can browse through the list to find speakers for their events.
 
 ## Contributing
 
