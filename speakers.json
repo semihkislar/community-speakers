@@ -353,6 +353,28 @@
         "Devfest Kırklareli",
         "Devfest Tekirdağ"
       ]
+    },
+        {
+      "name": "Rümeysa Kara",
+      "expertise": [
+        "Data Science",
+        "Machine Learning",
+        "Deep Learning",
+        "AI"
+      ],
+      "bio": "Data Scientist @YEPAŞ, Google Developer Expert for AI/ML",
+      "image": "https://i.ibb.co/VSbJHzm/DSC-0517.jpg",
+      "email": "rumeysskara@gmail.com",
+      "linkedin": "linkedin.com/in/rumeysakara",
+      "twitter": "@rumeysskara",
+      "pastEvents": [
+        "DevFest Bursa",
+        "DevFest İzmir",
+        "Devfest Burdur",
+        "DevFest Gaziantep",
+        "DevFest Çanakkale",
+        "Devfest Bakü"
+      ]
     }
   ]
 }
