@@ -308,6 +308,27 @@
       "linkedin": "https",
       "twitter": "https",
       "pastEvents": []
+    },
+    {
+      "name": "Emre Tekin",
+      "expertise": [
+        "Mobile App Development",
+        "Kotlin",
+        "Android"
+      ],
+      "bio": "Senior Android Developer @Papara",
+      "image": "https://media.licdn.com/dms/image/v2/C5603AQFiGkHBFq3XsQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1652710722503?e=1742428800&v=beta&t=Cl7zdZdUAjOuplBJ88v5K9EqSjyg8yjVgFTlhltMkLY",
+      "email": "emretekin777@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/emretekinn",
+      "twitter": "@emre_tekinn",
+      "pastEvents": [
+        "DevFest Kütahya 2018", 
+        "DevFest Burdur 2018",
+        "DevFest Burdur 2023",
+        "Piri Reis Üniversitesi Teknoloji Zirvesi 2024",
+        "DevFest Gaziantep 2024",
+        "DevFest Bursa 2024"
+      ]
     }
   ]
 }
