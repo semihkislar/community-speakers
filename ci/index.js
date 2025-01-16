@@ -115,15 +115,6 @@ function validateData(data) {
     errors.push("Twitter handle is required")
   }
 
-  if (
-    !Array.isArray(data.pastEvents) ||
-    data.pastEvents.some((event) => !event)
-  ) {
-    errors.push(
-      "Past events must be an array with at least one non-empty string"
-    )
-  }
-
   return errors
 }
 

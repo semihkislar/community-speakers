@@ -1,6 +1,6 @@
 # Test Scenarios
 
-## Validation tests
+## Validation Unit Tests
 
 ### Test Case-001: Valid Speaker Data
 
@@ -74,28 +74,55 @@
 
 - **Expected Output:** ["Image URL is required"]
 
-<!--
+### Test Case-007: Missing Email
 
-TODO:
-
--->
-
-### Test Case: Missing Email
-
-- **Expected Output:** ["A valid email is required"]
-
-### Test Case: Invalid Email
+```json
+{
+  "email": "",
+  ...
+}
+```
 
 - **Expected Output:** ["A valid email is required"]
 
-### Test Case: Missing LinkedIn
+### Test Case-008: Invalid Email
+
+```json
+{
+  "email": "invalid-email",
+  ...
+}
+```
+
+### Test-Case-009: Valid Email
+
+```json
+{
+  "email": "semihkislar@gmail.com",
+  ...
+}
+```
+
+- **Expected Output:** ["A valid email is required"]
+
+### Test Case-010: Missing LinkedIn
+
+```json
+{
+  "linkedin": "",
+  ...
+}
+```
 
 - **Expected Output:** ["LinkedIn profile is required"]
 
-### Test Case: Missing Twitter
+### Test Case-011: Missing Twitter
+
+```json
+{
+  "twitter": "",
+  ...
+}
+```
 
 - **Expected Output:** ["Twitter handle is required"]
-
-### Test Case: Empty Past Events
-
-- **Expected Output:** ["Past events must be an array with at least one non-empty string"]
