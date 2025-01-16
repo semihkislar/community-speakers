@@ -391,5 +391,26 @@
       "twitter": "",
       "pastEvents": []
     },
+    {
+      "name": "Caner Türe",
+      "expertise": [
+        "Kotlin", 
+        "Android", 
+        "Jetpack Compose", 
+        "Kotlin-Compose Multiplatform"
+      ],
+      "bio": "Android Developer at Teknasyon",
+      "image": "https://canerture.com/candroid.png",
+      "email": "cnrture@gmail.com",
+      "linkedin": "linkedin.com/in/cnrture",
+      "twitter": "@yerfizikci",
+      "pastEvents": [
+        "DevFest Edirne 2024", 
+        "DevFest Tekirdağ 2024", 
+        "DevFest Kocaeli 2024", 
+        "DevFest Samsun 2024", 
+        "DevFest Çanakkale 2024"
+      ],
+    }
   ]
 }
