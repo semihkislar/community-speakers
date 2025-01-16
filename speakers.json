@@ -331,14 +331,28 @@
       ]
     },
     {
-      "name": "",
-      "expertise": [],
-      "bio": "",
-      "image": "",
-      "email": "",
-      "linkedin": "",
-      "twitter": "",
-      "pastEvents": []
+      "name": "Kaan Enes KAPICI",
+      "expertise": [
+        "Mobile Development",
+        "Android",
+        "Kotlin",
+        "Java",
+        "Jetpack Compose"
+      ],
+      "bio": "Senior Android Developer Turk Telekom/Innova Bilisim",
+      "image": "https://avatars.githubusercontent.com/u/32849662",
+      "email": "kaaneneskpc1@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/kaaneneskpc/",
+      "twitter": "@kaaneneskpc",
+      "pastEvents": [
+        "Devfest Konya",
+        "Devfest Bursa",
+        "Devfest Kütahya",
+        "Devfest Kastamonu",
+        "Devfest Samsun",
+        "Devfest Kırklareli",
+        "Devfest Tekirdağ"
+      ]
     }
   ]
 }
