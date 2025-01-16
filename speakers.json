@@ -322,13 +322,23 @@
       "linkedin": "https://www.linkedin.com/in/emretekinn",
       "twitter": "@emre_tekinn",
       "pastEvents": [
-        "DevFest Kütahya 2018", 
+        "DevFest Kütahya 2018",
         "DevFest Burdur 2018",
         "DevFest Burdur 2023",
         "Piri Reis Üniversitesi Teknoloji Zirvesi 2024",
         "DevFest Gaziantep 2024",
         "DevFest Bursa 2024"
       ]
+    },
+    {
+      "name": "",
+      "expertise": [],
+      "bio": "",
+      "image": "",
+      "email": "",
+      "linkedin": "",
+      "twitter": "",
+      "pastEvents": []
     }
   ]
 }
