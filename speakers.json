@@ -411,6 +411,19 @@
         "DevFest Samsun 2024",
         "DevFest Çanakkale 2024"
       ]
+    },
+    {
+      "name": "Yusuf Karan",
+      "expertise": [
+        "iOS",
+        "SwiftUI"
+      ],
+      "bio": "iOS Developer at Roofstacks",
+      "image": "https://ibb.co/R3v5SGY",
+      "email": "karan.yusuf.20@gmail.com",
+      "linkedin": "linkedin.com/in/yusuf-karan",
+      "twitter": "@yusufkaranx",
+      "pastEvents": []
     }
   ]
 }
