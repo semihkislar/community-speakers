@@ -440,6 +440,16 @@
       "pastEvents": [
         "DevFest Çanakkale 2024"
       ]
+    },
+    {
+       "name": "Tolga Kurtuluş",
+        "expertise": ["Large Language Models", "Machine Learning", "Data Science"],
+        "bio": "Revenue Management R&D Specialist at Turkish Airlines",
+        "image": "https://avatars.githubusercontent.com/u/22731161?v=4",
+        "email": "tolgakurtulus95@gmail.com",
+        "linkedin": "linkedin.com/in/tolgakurtulus",
+        "twitter": "@tolgaakurtuluss",
+        "pastEvents": ["Teknasyon Tech Meetup 42 - LLM Ne der?", "Kommunity.com/IstanbulCoders - LangChain: Büyük Dil Modelleriyle (LLM) Yapay Zeka Uygulaması Geliştirme"],
     }
   ]
 }
