@@ -450,6 +450,24 @@
         "linkedin": "linkedin.com/in/tolgakurtulus",
         "twitter": "@tolgaakurtuluss",
         "pastEvents": ["Teknasyon Tech Meetup 42 - LLM Ne der?", "Kommunity.com/IstanbulCoders - LangChain: Büyük Dil Modelleriyle (LLM) Yapay Zeka Uygulaması Geliştirme"],
+    },
+    {
+      "name": "Sezer Hüseyin",
+      "expertise": [
+        "CyberSecurity",
+        "Golang",
+        "PHP & Laravel",
+        "Shell Scripting",
+        "Network Specialist",
+        "GNU / Linux & FreeBSD Developer"
+      ],
+      "bio": "Cyber Security & Network Specialist | Senior Developer | @coslat | @bgtek",
+      "image": "https://ibb.co/kD7K1C4",
+      "email": "sezerceadres@gmail.com",
+      "linkedin": "linkedin.com/in/sezerhuseyin",
+      "pastEvents": [
+        "TUSEC & GNU / LINUX & Security 2024"
+      ]
     }
   ]
 }
