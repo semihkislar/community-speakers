@@ -413,7 +413,36 @@
       ]
     },
     {
-        "name": "Tolga Kurtuluş",
+      "name": "Yusuf Karan",
+      "expertise": [
+        "iOS",
+        "SwiftUI"
+      ],
+      "bio": "iOS Developer at Roofstacks",
+      "image": "https://ibb.co/R3v5SGY",
+      "email": "karan.yusuf.20@gmail.com",
+      "linkedin": "linkedin.com/in/yusuf-karan",
+      "twitter": "@yusufkaranx",
+      "pastEvents": []
+    },
+    {
+      "name": "Erim Şengezer",
+      "expertise": [
+        "Swift",
+        "iOS Development",
+        "SwiftUI"
+      ],
+      "bio": "iOS Developer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8souHhgsBiLH4qeQkVVctUu1S44jLt3UqA&s",
+      "email": "erimsengezer@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/erimsengezer/",
+      "twitter": "@erimdev",
+      "pastEvents": [
+        "DevFest Çanakkale 2024"
+      ]
+    },
+    {
+       "name": "Tolga Kurtuluş",
         "expertise": ["Large Language Models", "Machine Learning", "Data Science"],
         "bio": "Revenue Management R&D Specialist at Turkish Airlines",
         "image": "https://avatars.githubusercontent.com/u/22731161?v=4",
@@ -421,6 +450,6 @@
         "linkedin": "linkedin.com/in/tolgakurtulus",
         "twitter": "@tolgaakurtuluss",
         "pastEvents": ["Teknasyon Tech Meetup 42 - LLM Ne der?", "Kommunity.com/IstanbulCoders - LangChain: Büyük Dil Modelleriyle (LLM) Yapay Zeka Uygulaması Geliştirme"],
-}
+    }
   ]
 }
