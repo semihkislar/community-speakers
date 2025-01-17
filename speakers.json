@@ -385,7 +385,7 @@
         "Effective University Life Management"
       ],
       "bio": "Software Engineer at Architecht, Facilitator at GDG on Campus Türkiye",
-      "image": "https://unsplash.com/photos/CEtU26CY3hg",
+      "image": "https://avatars.githubusercontent.com/u/110734161?v=4",
       "email": "eceeyupp@gmail.com",
       "linkedin": "linkedin.com/in/eyupece",
       "twitter": "",
@@ -410,6 +410,71 @@
         "DevFest Kocaeli 2024",
         "DevFest Samsun 2024",
         "DevFest Çanakkale 2024"
+      ]
+    },
+    {
+      "name": "Yusuf Karan",
+      "expertise": [
+        "iOS",
+        "SwiftUI"
+      ],
+      "bio": "iOS Developer at Roofstacks",
+      "image": "https://ibb.co/R3v5SGY",
+      "email": "karan.yusuf.20@gmail.com",
+      "linkedin": "linkedin.com/in/yusuf-karan",
+      "twitter": "@yusufkaranx",
+      "pastEvents": []
+    },
+    {
+      "name": "Erim Şengezer",
+      "expertise": [
+        "Swift",
+        "iOS Development",
+        "SwiftUI"
+      ],
+      "bio": "iOS Developer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8souHhgsBiLH4qeQkVVctUu1S44jLt3UqA&s",
+      "email": "erimsengezer@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/erimsengezer/",
+      "twitter": "@erimdev",
+      "pastEvents": [
+        "DevFest Çanakkale 2024"
+      ]
+    },
+    {
+      "name": "Tolga Kurtuluş",
+      "expertise": [
+        "Large Language Models",
+        "Machine Learning",
+        "Data Science"
+      ],
+      "bio": "Revenue Management R&D Specialist at Turkish Airlines",
+      "image": "https://avatars.githubusercontent.com/u/22731161?v=4",
+      "email": "tolgakurtulus95@gmail.com",
+      "linkedin": "linkedin.com/in/tolgakurtulus",
+      "twitter": "@tolgaakurtuluss",
+      "pastEvents": [
+        "Teknasyon Tech Meetup 42 - LLM Ne der?",
+        "Kommunity.com/IstanbulCoders - LangChain: Büyük Dil Modelleriyle (LLM) Yapay Zeka Uygulaması Geliştirme"
+      ]
+    },
+    {
+      "name": "Sezer Hüseyin",
+      "expertise": [
+        "CyberSecurity",
+        "Golang",
+        "PHP & Laravel",
+        "Shell Scripting",
+        "Network Specialist",
+        "GNU / Linux & FreeBSD Developer"
+      ],
+      "bio": "Cyber Security & Network Specialist | Senior Developer | @coslat | @bgtek",
+      "image": "https://ibb.co/kD7K1C4",
+      "email": "sezerceadres@gmail.com",
+      "linkedin": "linkedin.com/in/sezerhuseyin",
+      "twitter": "",
+      "pastEvents": [
+        "TUSEC & GNU / LINUX & Security 2024"
       ]
     }
   ]
