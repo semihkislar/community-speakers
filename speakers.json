@@ -411,6 +411,22 @@
         "DevFest Samsun 2024",
         "DevFest Çanakkale 2024"
       ]
+    },
+    {
+      "name": "Erim Şengezer",
+      "expertise": [
+        "Swift",
+        "iOS Development",
+        "SwiftUI"
+      ],
+      "bio": "iOS Developer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8souHhgsBiLH4qeQkVVctUu1S44jLt3UqA&s",
+      "email": "erimsengezer@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/erimsengezer/",
+      "twitter": "@erimdev",
+      "pastEvents": [
+        "DevFest Çanakkale 2024"
+      ]
     }
   ]
 }
