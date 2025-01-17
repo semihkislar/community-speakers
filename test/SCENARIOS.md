@@ -74,18 +74,7 @@
 
 - **Expected Output:** ["Image URL is required"]
 
-### Test Case-007: Missing Email
-
-```json
-{
-  "email": "",
-  ...
-}
-```
-
-- **Expected Output:** ["A valid email is required"]
-
-### Test Case-008: Invalid Email
+### Test Case-007: Invalid Email
 
 ```json
 {
@@ -94,7 +83,7 @@
 }
 ```
 
-### Test-Case-009: Valid Email
+### Test-Case-008: Valid Email
 
 ```json
 {
@@ -105,24 +94,49 @@
 
 - **Expected Output:** ["A valid email is required"]
 
-### Test Case-010: Missing LinkedIn
+### Test Case-009: Missing All Contact Methods
 
 ```json
 {
+  "email": "",
   "linkedin": "",
-  ...
+  "twitter": ""
 }
 ```
 
-- **Expected Output:** ["LinkedIn profile is required"]
+- **Expected Output:**: ["At least one contact method (email, LinkedIn, or Twitter) is required"]
 
-### Test Case-011: Missing Twitter
+### Test Case-010: Valid Twitter Handle
 
 ```json
 {
-  "twitter": "",
+  "twitter": "@semiyann",
   ...
 }
 ```
 
-- **Expected Output:** ["Twitter handle is required"]
+- **Expected Output:** []
+
+### Test Case-011: Single Valid Contact Method
+
+```json
+{
+  "email": "",
+  "linkedin": "linkedin.com/in/semihkislar",
+  "twitter": ""
+}
+```
+
+- **Expected Output:** []
+
+### Test Case-012: Valid Mixed Contact Methods
+
+```json
+{
+  "email": "semihkislar@gmail.com",
+  "linkedin": "",
+  "twitter": "@semiyann"
+}
+```
+
+- **Expected Output:** []
