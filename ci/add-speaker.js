@@ -1,3 +1,4 @@
+const fs = require("node:fs")
 const { parseIssueBody, validateData } = require("./index")
 
 const issueBody = process.env.ISSUE_BODY
