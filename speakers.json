@@ -12,7 +12,7 @@
       "email": "semihkislar@gmail.com",
       "linkedin": "linkedin.com/in/semihkislar",
       "twitter": "@semiyann",
-      "location": ["Bursa", "İstanbul"],
+      "locations": ["Bursa", "İstanbul"],
       "pastEvents": [
         "DevFest Tashkent"
       ],
@@ -38,7 +38,7 @@
       "email": "bora@biricik.dev",
       "linkedin": "linkedin.com/in/bora-biricik",
       "twitter": "@biricik_js",
-      "location": ["Bursa"],
+      "locations": ["Bursa"],
       "pastEvents": [
         "Bursa Bilişim Topluluğu: React 101 (Workshop)",
         "Bursa Bilişim Topluluğu: Framer Motion ile Animasyon (Workshop)",
@@ -66,7 +66,7 @@
       "email": "orhan@ozkercin.dev",
       "linkedin": "linkedin.com/in/orhanozkercin",
       "twitter": "@orhanozkercin ",
-      "location": ["İzmir"],
+      "locations": ["İzmir"],
       "pastEvents": [
         "DevFest Ankara",
         "Bursa Bilişim Topluluğu Workshop",
@@ -94,7 +94,7 @@
       "email": "salihbasakk@gmail.com",
       "linkedin": "linkedin.com/in/salihbasakk",
       "twitter": "@salihbasakk ",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "Bursa Bilişim Topluluğu: Legacy Reboot: PHP to Go Transition (Workshop)"
       ],
@@ -120,7 +120,7 @@
       "email": "emre@emreb.dev",
       "linkedin": "linkedin.com/in/bozkurrtemre",
       "twitter": "@emrebdev",
-      "location": ["İstanbul"],
+      "locations": ["İstanbul"],
       "pastEvents": [
         "Bursa Bilişim Topluluğu: Legacy Reboot: PHP to Go Transition (Workshop)"
       ],
@@ -145,7 +145,7 @@
       "email": "ilker@ilkerulusoy.com.tr",
       "linkedin": "linkedin.com/in/ulusoyilker",
       "twitter": "@ilkerulusoy",
-      "location": ["İstanbul"],
+      "locations": ["İstanbul"],
       "pastEvents": [],
       "liveEvents": [
         {"name": "", "link": ""},
@@ -170,7 +170,7 @@
       "email": "abdulkerimkaraman@gmail.com",
       "linkedin": "linkedin.com/in/abdulkerimkaraman",
       "twitter": "@kerimkaraman24",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "DevFest",
         "DevNot",
@@ -203,7 +203,7 @@
       "email": "hsynn.altnss@gmail.com",
       "linkedin": "linkedin.com/in/huseyinaltns",
       "twitter": "@huseyinaltns",
-      "location": ["Bursa"],
+      "locations": ["Bursa"],
       "pastEvents": [
         "BBT Connect: Cyber Security",
         "Siber Zirve 2024 (Presenter) - DPUSEC Siber Güvenlik Kulübü",
@@ -230,7 +230,7 @@
       "email": "info@altug.dev",
       "linkedin": "linkedin.com/in/mehmetaltugakgul",
       "twitter": "@AltugAkgul",
-      "location": ["Ankara"],
+      "locations": ["Ankara"],
       "pastEvents": [
         "DevFest Ankara"
       ],
@@ -256,7 +256,7 @@
       "email": "sarpremziaksu@gmail.com",
       "linkedin": "linkedin.com/in/sarpremziaksu",
       "twitter": "@sarpremziaksu ",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "DevFest Ankara 2023/2024",
         "Roboto Conference 2024",
@@ -286,7 +286,7 @@
       "email": "senayktt@gmail.com",
       "linkedin": "https://www.linkedin.com/in/sena-yakut/",
       "twitter": "@sena_yakutt",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "BBT Connect: Cyber Security",
         "AWS Community Day Türkiye 2024",
@@ -314,7 +314,7 @@
       "email": "hi@fka.dev",
       "linkedin": "linkedin.com/in/f",
       "twitter": "@fkadev",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "DevFest Ankara",
         "DevFest Tashkent"
@@ -342,7 +342,7 @@
       "email": "gzm.mlck94@gmail.com",
       "linkedin": "linkedin.com/in/gizemmalcok/",
       "twitter": "@gizemnoktapk",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "Devfest WTM Google Office",
         "Devfest İzmir 2023",
@@ -372,7 +372,7 @@
       "email": "busradibaaktas@gmail.com",
       "linkedin": "https://www.linkedin.com/in/dbusraktas/",
       "twitter": "dbusraktas",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "Hello Talks 2023",
         "JSKonf İstanbul 2024"
@@ -398,7 +398,7 @@
       "email": "enderyurt@gmail.com",
       "linkedin": "https://www.linkedin.com/in/enderahmetyurt/",
       "twitter": "https://twitter.com/eayurtTwitter",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "Devfest Samsun 2024",
         "RailsGirls Ankara",
@@ -428,7 +428,7 @@
       "email": "mgolcu00@gmail.com",
       "linkedin": "https://www.linkedin.com/in/mert-golcu-87615b175/",
       "twitter": "golcu_mert",
-      "location": [],
+      "locations": [],
       "pastEvents": [],
       "liveEvents": [
         {"name": "", "link": ""},
@@ -451,7 +451,7 @@
       "email": "doganaydin@outlook.com",
       "linkedin": "https",
       "twitter": "https",
-      "location": [],
+      "locations": [],
       "pastEvents": [],
       "liveEvents": [
         {"name": "", "link": ""},
@@ -474,7 +474,7 @@
       "email": "emretekin777@gmail.com",
       "linkedin": "https://www.linkedin.com/in/emretekinn",
       "twitter": "@emre_tekinn",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "DevFest Kütahya 2018",
         "DevFest Burdur 2018",
@@ -506,7 +506,7 @@
       "email": "kaaneneskpc1@gmail.com",
       "linkedin": "https://www.linkedin.com/in/kaaneneskpc/",
       "twitter": "@kaaneneskpc",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "Devfest Konya",
         "Devfest Bursa",
@@ -538,7 +538,7 @@
       "email": "rumeysskara@gmail.com",
       "linkedin": "linkedin.com/in/rumeysakara",
       "twitter": "@rumeysskara",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "DevFest Bursa",
         "DevFest İzmir",
@@ -569,7 +569,7 @@
       "email": "eceeyupp@gmail.com",
       "linkedin": "linkedin.com/in/eyupece",
       "twitter": "",
-      "location": [],
+      "locations": [],
       "pastEvents": [],
       "liveEvents": [
         {"name": "", "link": ""},
@@ -593,7 +593,7 @@
       "email": "cnrture@gmail.com",
       "linkedin": "linkedin.com/in/cnrture",
       "twitter": "@yerfizikci",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "DevFest Edirne 2024",
         "DevFest Tekirdağ 2024",
@@ -621,7 +621,7 @@
       "email": "karan.yusuf.20@gmail.com",
       "linkedin": "linkedin.com/in/yusuf-karan",
       "twitter": "@yusufkaranx",
-      "location": [],
+      "locations": [],
       "pastEvents": [],
       "liveEvents": [
         {"name": "", "link": ""},
@@ -644,7 +644,7 @@
       "email": "erimsengezer@gmail.com",
       "linkedin": "https://www.linkedin.com/in/erimsengezer/",
       "twitter": "@erimdev",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "DevFest Çanakkale 2024"
       ],
@@ -669,7 +669,7 @@
       "email": "tolgakurtulus95@gmail.com",
       "linkedin": "linkedin.com/in/tolgakurtulus",
       "twitter": "@tolgaakurtuluss",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "Teknasyon Tech Meetup 42 - LLM Ne der?",
         "Kommunity.com/IstanbulCoders - LangChain: Büyük Dil Modelleriyle (LLM) Yapay Zeka Uygulaması Geliştirme"
@@ -698,7 +698,7 @@
       "email": "sezerceadres@gmail.com",
       "linkedin": "linkedin.com/in/sezerhuseyin",
       "twitter": "",
-      "location": [],
+      "locations": [],
       "pastEvents": [
         "TUSEC & GNU / LINUX & Security 2024"
       ],
