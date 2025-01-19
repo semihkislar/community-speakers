@@ -128,7 +128,9 @@ function validateData(data) {
 
   // Check if at least one contact method is provided
   if (!data.email && !data.linkedin && !data.twitter) {
-    errors.push("At least one contact method (email, LinkedIn, or Twitter) is required")
+    errors.push(
+      "At least one contact method (Email, LinkedIn, or Twitter) is required"
+    )
   }
 
   // Validate email if provided
@@ -137,16 +139,50 @@ function validateData(data) {
   }
 
   // Validate LinkedIn URL if provided
-  if (data.linkedin && !data.linkedin.startsWith('linkedin.com/in/')) {
-    errors.push("LinkedIn profile must be a valid LinkedIn URL")
+  if (data.linkedin && !isLinkedinValid(data.linkedin)) {
+    errors.push("LinkedIn profile must start with 'linkedin.com/in/'")
   }
 
   // Validate Twitter handle if provided
-  if (data.twitter && !data.twitter.startsWith('@')) {
+  if (data.twitter && !isTwitterValid(data.twitter)) {
     errors.push("Twitter handle must start with @")
   }
 
   return errors
+}
+
+/**
+ * Validates if the given LinkedIn URL is in the correct format.
+ *
+ * @param {string} linkedin - The LinkedIn URL to validate.
+ * @returns {boolean} - Returns true if the LinkedIn URL is valid, otherwise false.
+ */
+function isLinkedinValid(linkedin) {
+  if (!linkedin || typeof linkedin !== "string") {
+    return false
+  }
+
+  return linkedin.startsWith("linkedin.com/in/")
+}
+
+/**
+ * Validates a Twitter handle.
+ *
+ * This function checks if the provided Twitter handle is a non-empty string
+ * and matches the pattern for a valid Twitter username. A valid Twitter
+ * username starts with '@' followed by 1 to 15 alphanumeric characters or
+ * underscores.
+ *
+ * @param {string} twitter - The Twitter handle to validate.
+ * @returns {boolean} - Returns true if the Twitter handle is valid, otherwise false.
+ */
+function isTwitterValid(twitter) {
+  if (!twitter || typeof twitter !== "string") {
+    return false
+  }
+
+  const re = /^@([a-zA-Z0-9_]{1,15})$/
+  return re.test(twitter)
 }
 
 /**
@@ -162,4 +198,29 @@ function validateEmail(email) {
   return re.test(email)
 }
 
-module.exports = { parseIssueBody, validateData }
+/**
+ * Validates an array of speaker data.
+ *
+ * @param {Array} data - The array of speaker data to validate.
+ * @returns {Array} An array of error objects. Each error object contains the speaker's name, JSON index and error messages.
+ */
+function validateMutltipleSpeakers(data) {
+  const errors = []
+  if (!Array.isArray(data)) {
+    errors.push("Data must be an array")
+  } else {
+    data.forEach((speaker, index) => {
+      const speakerErrors = validateData(speaker)
+      if (speakerErrors.length > 0) {
+        errors.push({
+          speaker: speaker.name,
+          errors: speakerErrors,
+          _index: index,
+        })
+      }
+    })
+  }
+  return errors
+}
+
+module.exports = { parseIssueBody, validateData, validateMutltipleSpeakers }

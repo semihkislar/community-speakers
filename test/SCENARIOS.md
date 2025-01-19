@@ -1,5 +1,9 @@
 # Test Scenarios
 
+## Briefing
+
+The following test scenarios are designed to validate the speaker data. Each data should be in the [correct format](../README.md#how-to-add-your-profile).
+
 ## Validation Unit Tests
 
 ### Test Case-001: Valid Speaker Data
@@ -140,3 +144,13 @@
 ```
 
 - **Expected Output:** []
+
+### Test Case-013: Invalid Twitter Handle
+
+```json
+{
+  "twitter": "semiyann",
+}
+```
+
+- **Expected Output:** ["Twitter handle must start with @"]

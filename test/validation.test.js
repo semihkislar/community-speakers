@@ -156,7 +156,7 @@ describe("Validation Unit Tests", () => {
     const validationErrors = validateData(obj)
 
     assert.deepStrictEqual(validationErrors, [
-      "At least one contact method (email, LinkedIn, or Twitter) is required",
+      "At least one contact method (Email, LinkedIn, or Twitter) is required",
     ])
   })
 
@@ -204,5 +204,24 @@ describe("Validation Unit Tests", () => {
     const validationErrors = validateData(obj)
 
     assert.deepStrictEqual(validationErrors, [])
+  })
+
+  it("013-Invalid Twitter Handle should FAIL", (t) => {
+    const obj = {
+      name: "Semih Kışlar",
+      expertise: ["Web Development", "JavaScript", "Node.js"],
+      bio: "Community Manager @Teknasyon, Founder @Bursa Bilişim Topluluğu",
+      image: "https://bursa.dev/images/team/semih-kislar.jpg",
+      email: "semihkislar@gmail.com",
+      linkedin: "linkedin.com/in/semihkislar",
+      twitter: "semiyann",
+      pastEvents: ["DevFest Tashkent"],
+    }
+
+    const validationErrors = validateData(obj)
+
+    assert.deepStrictEqual(validationErrors, [
+      "Twitter handle must start with @",
+    ])
   })
 })
