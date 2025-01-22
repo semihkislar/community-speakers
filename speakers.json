@@ -12,17 +12,32 @@
       "email": "semihkislar@gmail.com",
       "linkedin": "linkedin.com/in/semihkislar",
       "twitter": "@semiyann",
-      "locations": ["Bursa", "İstanbul"],
+      "locations": [
+        "Bursa",
+        "İstanbul"
+      ],
       "pastEvents": [
         "DevFest Tashkent"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -38,19 +53,33 @@
       "email": "bora@biricik.dev",
       "linkedin": "linkedin.com/in/bora-biricik",
       "twitter": "@biricik_js",
-      "locations": ["Bursa"],
+      "locations": [
+        "Bursa"
+      ],
       "pastEvents": [
         "Bursa Bilişim Topluluğu: React 101 (Workshop)",
         "Bursa Bilişim Topluluğu: Framer Motion ile Animasyon (Workshop)",
         "GDSC Bursa: Yazılım Dünyasına Giriş"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -66,7 +95,9 @@
       "email": "orhan@ozkercin.dev",
       "linkedin": "linkedin.com/in/orhanozkercin",
       "twitter": "@orhanozkercin ",
-      "locations": ["İzmir"],
+      "locations": [
+        "İzmir"
+      ],
       "pastEvents": [
         "DevFest Ankara",
         "Bursa Bilişim Topluluğu Workshop",
@@ -74,12 +105,24 @@
         "Teknasyon Tech Talks"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -99,12 +142,24 @@
         "Bursa Bilişim Topluluğu: Legacy Reboot: PHP to Go Transition (Workshop)"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -120,17 +175,31 @@
       "email": "emre@emreb.dev",
       "linkedin": "linkedin.com/in/bozkurrtemre",
       "twitter": "@emrebdev",
-      "locations": ["İstanbul"],
+      "locations": [
+        "İstanbul"
+      ],
       "pastEvents": [
         "Bursa Bilişim Topluluğu: Legacy Reboot: PHP to Go Transition (Workshop)"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -145,15 +214,29 @@
       "email": "ilker@ilkerulusoy.com.tr",
       "linkedin": "linkedin.com/in/ulusoyilker",
       "twitter": "@ilkerulusoy",
-      "locations": ["İstanbul"],
+      "locations": [
+        "İstanbul"
+      ],
       "pastEvents": [],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -178,12 +261,24 @@
         "IBB Mobil App event"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -203,19 +298,33 @@
       "email": "hsynn.altnss@gmail.com",
       "linkedin": "linkedin.com/in/huseyinaltns",
       "twitter": "@huseyinaltns",
-      "locations": ["Bursa"],
+      "locations": [
+        "Bursa"
+      ],
       "pastEvents": [
         "BBT Connect: Cyber Security",
         "Siber Zirve 2024 (Presenter) - DPUSEC Siber Güvenlik Kulübü",
         "Siber Zirve 2022 (Presenter) - DPUSEC Siber Güvenlik Kulübü"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -230,17 +339,31 @@
       "email": "info@altug.dev",
       "linkedin": "linkedin.com/in/mehmetaltugakgul",
       "twitter": "@AltugAkgul",
-      "locations": ["Ankara"],
+      "locations": [
+        "Ankara"
+      ],
       "pastEvents": [
         "DevFest Ankara"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -265,12 +388,24 @@
         "DevFest İzmir 2023"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -294,12 +429,24 @@
         "DevOpsDays Istanbul 2024"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -320,12 +467,24 @@
         "DevFest Tashkent"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -351,12 +510,24 @@
         "Devfest Samsun 2023"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -378,12 +549,24 @@
         "JSKonf İstanbul 2024"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -405,12 +588,24 @@
         "19 Mayıs Üniversitesi IEEE Kulübü Kariyer Günleri"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -431,12 +626,24 @@
       "locations": [],
       "pastEvents": [],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -454,12 +661,24 @@
       "locations": [],
       "pastEvents": [],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -484,12 +703,24 @@
         "DevFest Bursa 2024"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -517,12 +748,24 @@
         "Devfest Tekirdağ"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -548,12 +791,24 @@
         "Devfest Bakü"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -572,12 +827,24 @@
       "locations": [],
       "pastEvents": [],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -602,12 +869,24 @@
         "DevFest Çanakkale 2024"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -624,12 +903,24 @@
       "locations": [],
       "pastEvents": [],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -649,12 +940,24 @@
         "DevFest Çanakkale 2024"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -675,12 +978,24 @@
         "Kommunity.com/IstanbulCoders - LangChain: Büyük Dil Modelleriyle (LLM) Yapay Zeka Uygulaması Geliştirme"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ]
     },
     {
@@ -703,12 +1018,40 @@
         "TUSEC & GNU / LINUX & Security 2024"
       ],
       "liveEvents": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
       ],
       "presentations": [
-        {"name": "", "link": ""},
-        {"name": "", "link": ""}
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "Yunus Tek",
+      "expertise": [
+        "iOS Development",
+        "Swift"
+      ],
+      "bio": "Senior iOS Developer @Dzd Tech. Former; Co-Founder @Bestup.app, @Leather.tv (Silicon Valley)",
+      "image": "https://avatars.githubusercontent.com/u/9871990?s=400&u=08a28de737cc042e582830f12486cd69d2143751&v=4",
+      "email": "ynstek@gmail.com",
+      "linkedin": "linkedin.com/in/yunustek",
+      "twitter": "@ynstek",
+      "pastEvents": [
+        "",
+        ""
       ]
     }
   ]
