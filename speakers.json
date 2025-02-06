@@ -1097,11 +1097,14 @@
       "locations": [
         "Kayseri"
       ],
-      "pastEvents": ["Devnot Summit'21", "Coding Space Uniworkhub"],
+      "pastEvents": ["Üretim Bandı","Devnot Summit'21", "Coding Space Uniworkhub"],
       "liveEvents": [
         {
           "name": "Devnot Summit'21",
           "link": "https://www.youtube.com/watch?v=Y20yWKyH-zE"
+        },{
+          "name": "Üretim Bandı",
+          "link": "https://www.youtube.com/watch?v=rm2odr9z9sg"
         }
       ]
     }
