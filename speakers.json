@@ -1086,6 +1086,24 @@
         "",
         ""
       ]
+    }, {
+      "name": "Aybüke Çıklabakkal",
+      "expertise": ["Clean Code", "Software Development Culture"],
+      "bio": "Full Stack Developer",
+      "image": "",
+      "email": "aybukeciklabakkal@gmail.com",
+      "linkedin": "linkedin.com/in/aybukearpaci/",
+      "twitter": "@yazilimcikisi",
+      "locations": [
+        "Kayseri"
+      ],
+      "pastEvents": ["Devnot Summit'21", "Coding Space Uniworkhub"],
+      "liveEvents": [
+        {
+          "name": "Devnot Summit'21",
+          "link": "https://www.youtube.com/watch?v=Y20yWKyH-zE"
+        }
+      ]
     }
   ]
 }
