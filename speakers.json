@@ -1040,7 +1040,7 @@
     },
     {
       "name": "Alper Sarı",
-      "expertise": ["Cloud Computing, DevOps"],
+      "expertise": ["Cloud Computing", "Cloud Networking", "DevOps"],
       "bio": "Cloud Native Engineer @ bestcloudfor.me",
       "image": "https://avatars.githubusercontent.com/u/65822234",
       "email": "alpernbt@gmail.com",
@@ -1049,7 +1049,7 @@
       "locations": [
         "Bursa"
       ],
-      "pastEvents": ["Devfest Ankara'24, Devfest Eskişehir'24, Devfest İzmir'23"],
+      "pastEvents": ["Devfest Ankara'24", "Devfest Eskişehir'24", "Devfest Samsun'24", "Devfest İzmir'23"],
       "liveEvents": [
         {
           "name": "",
