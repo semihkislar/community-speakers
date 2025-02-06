@@ -1039,6 +1039,39 @@
       ]
     },
     {
+      "name": "Alper Sarı",
+      "expertise": ["Cloud Computing, DevOps"],
+      "bio": "Cloud Native Engineer @ bestcloudfor.me",
+      "image": "https://avatars.githubusercontent.com/u/65822234",
+      "email": "alpernbt@gmail.com",
+      "linkedin": "linkedin.com/in/alpernbt",
+      "twitter": "@alpernbt",
+      "locations": [
+        "Bursa"
+      ],
+      "pastEvents": ["Devfest Ankara'24, Devfest Eskişehir'24, Devfest İzmir'23"],
+      "liveEvents": [
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
+      ],
+      "presentations": [
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
+      ]
+    },
+    {
       "name": "Yunus Tek",
       "expertise": [
         "iOS Development",
