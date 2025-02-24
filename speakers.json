@@ -1040,7 +1040,11 @@
     },
     {
       "name": "Alper Sarı",
-      "expertise": ["Cloud Computing", "Cloud Networking", "DevOps"],
+      "expertise": [
+        "Cloud Computing",
+        "Cloud Networking",
+        "DevOps"
+      ],
       "bio": "Cloud Native Engineer @ bestcloudfor.me",
       "image": "https://avatars.githubusercontent.com/u/65822234",
       "email": "alpernbt@gmail.com",
@@ -1049,7 +1053,12 @@
       "locations": [
         "Bursa"
       ],
-      "pastEvents": ["Devfest Ankara'24", "Devfest Eskişehir'24", "Devfest Samsun'24", "Devfest İzmir'23"],
+      "pastEvents": [
+        "Devfest Ankara'24",
+        "Devfest Eskişehir'24",
+        "Devfest Samsun'24",
+        "Devfest İzmir'23"
+      ],
       "liveEvents": [
         {
           "name": "",
@@ -1086,9 +1095,13 @@
         "",
         ""
       ]
-    }, {
+    },
+    {
       "name": "Aybüke Çıklabakkal",
-      "expertise": ["Clean Code", "Software Development Culture"],
+      "expertise": [
+        "Clean Code",
+        "Software Development Culture"
+      ],
       "bio": "Full Stack Developer",
       "image": "https://avatars.githubusercontent.com/u/29501599?v=4",
       "email": "aybukeciklabakkal@gmail.com",
@@ -1097,14 +1110,71 @@
       "locations": [
         "Kayseri"
       ],
-      "pastEvents": ["Üretim Bandı","Devnot Summit'21", "Coding Space Uniworkhub"],
+      "pastEvents": [
+        "Üretim Bandı",
+        "Devnot Summit'21",
+        "Coding Space Uniworkhub"
+      ],
       "liveEvents": [
         {
           "name": "Devnot Summit'21",
           "link": "https://www.youtube.com/watch?v=Y20yWKyH-zE"
-        },{
+        },
+        {
           "name": "Üretim Bandı",
           "link": "https://www.youtube.com/watch?v=rm2odr9z9sg"
+        }
+      ]
+    },
+    {
+      "name": "Sinan Erdinç",
+      "expertise": [
+        "Automation",
+        "Python",
+        "Load Test",
+        "Test Strategy"
+      ],
+      "bio": "QA Lead",
+      "image": "http://avatars.githubusercontent.com/u/5897969?v=4",
+      "email": "mail@sinanerdinc.com",
+      "linkedin": "https://linkedin.com/in/sinanerdinc",
+      "twitter": "@helloiamsinan",
+      "locations": [
+        "Kocaeli",
+        "İstanbul"
+      ],
+      "pastEvents": [
+        "Devnot Mobil Yazılım Konferansı",
+        "Kommunity QA Talks",
+        "Bursa Bilişim Topluluğu",
+        "Ankara Testing Days 14th",
+        "Ankara Testing Days 13th",
+        "Teknopark İstanbul Yazılımcı Buluşmaları",
+        "TestHive",
+        "Istanbul Coders"
+      ],
+      "liveEvents": [
+        {
+          "name": "Locust Adventures: Exploring Your App's Performance",
+          "link": "https://www.youtube.com/watch?v=HIiFzz-LayU"
+        },
+        {
+          "name": "Simpler, Faster Automation with Robot Framework",
+          "link": "https://www.youtube.com/watch?v=qsKR7uDMk4o"
+        },
+        {
+          "name": "Robot Framework 101",
+          "link": "https://www.youtube.com/watch?v=P-GkVwApRm4"
+        }
+      ],
+      "presentations": [
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
         }
       ]
     }
