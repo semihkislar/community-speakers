@@ -289,16 +289,18 @@
       "name": "Hüseyin Altıntaş",
       "expertise": [
         "Cyber Security",
+        "Cyber Threat Intelligence",
+        "Attack Surface Management",
         "Red Team",
         "Blue Team",
         "Purple Team",
-        "Attack Surface Management",
-        "Cyber Threat Intelligence",
         "Web Application Pentest",
-        "SOC"
+        "Security Operations Center",
+        "Threat Intelligence Management",
+        "Cybersecurity Leadership"
       ],
-      "bio": "SOC Analyst @INGTurkey. Siber güvenlik ve tehdit istihbaratı konularında uzmanlaşmış bir analist.",
-      "image": "https://media.licdn.com/dms/image/v2/D4D03AQHnKunlFGAZPA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679317268187?e=1742428800&v=beta&t=eSGBFf8Zxf4xCnr_OQSjzXmRsXqaCSjj-9hzcdWYa3c",
+      "bio": "CTI Technical Team Lead @LeakSonar. Siber güvenlik ve tehdit istihbaratı konularında uzmanlaşmış bir takım lideri.",
+      "image": "https://avatars.githubusercontent.com/u/67187998?v=4",
       "email": "hsynn.altnss@gmail.com",
       "linkedin": "linkedin.com/in/huseyinaltns",
       "twitter": "@huseyinaltns",
@@ -306,10 +308,12 @@
         "Bursa"
       ],
       "pastEvents": [
-        "BBT Connect: Cyber Security",
+        "Siber Zirve 2022 (Presenter) - DPUSEC Siber Güvenlik Kulübü",
         "Siber Zirve 2024 (Presenter) - DPUSEC Siber Güvenlik Kulübü",
-        "Siber Zirve 2022 (Presenter) - DPUSEC Siber Güvenlik Kulübü"
-      ],
+        "BBT Connect: Cyber Security (Speaker) - Bursa Bilişim Topluluğu",
+        "Teknoloji Fuarı (Instructor) - CyberTEDU Siber Güvenlik Kulübü",
+        "Siber Güvenlik Bootcamp (Instructor) - Altıntaş Siber Güvenlik Kulübü"
+      ]
       "liveEvents": [
         {
           "name": "",
