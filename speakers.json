@@ -1181,6 +1181,49 @@
           "link": ""
         }
       ]
+    },
+    {
+      "name": "Utku Demir",
+      "expertise": [
+        "Web Development",
+        "JavaScript",
+        "React",
+        "Vue",
+        "Node.js"
+      ],
+      "bio": "Frontend Developer @ Tightly. 2020'den beri aktif frontend geliştirmekte",
+      "image": "https://avatars.githubusercontent.com/u/50655392",
+      "email": "utkdmr1@gmail.com",
+      "linkedin": "linkedin.com/in/utkudemir",
+      "twitter": "@utkdmrdev",
+      "locations": [
+        "Bursa",
+        "İstanbul"
+      ],
+      "pastEvents": [
+        "Automating Frontend Workflows - BBT Workshops",
+        "Authentication in Next.js Applications - BBT Connect: ReactKonf"
+      ],
+      "liveEvents": [
+        {
+          "name": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "link": ""
+        }
+      ],
+      "presentations": [
+        {
+          "name": "Automating Frontend Workflows",
+          "link": "https://drive.google.com/file/d/1xRdv6WI12wLz6-11G2evaBCqnNdsMyB-/view?usp=drive_link"
+        },
+        {
+          "name": "Authentication in Next.js Applications",
+          "link": "https://drive.google.com/file/d/1xk7RI7OGssxZSbztZJXYxRaXmnkneqeG/view?usp=sharing"
+        }
+      ]
     }
   ]
 }
