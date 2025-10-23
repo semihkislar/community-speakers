@@ -1,0 +1,32 @@
+name: Validate Speakers
+
+on:
+  push: 
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  validate-speakers:
+    runs-on: ubuntu-22.04
+    permissions:
+        contents: read
+        pull-requests: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Process Issue and Update Speakers
+        run: node ci/validate-speakers.js
