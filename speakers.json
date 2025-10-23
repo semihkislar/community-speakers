@@ -208,9 +208,12 @@
         "Mobile Application Development",
         "Mobile Application Security",
         "Mobile Application Performance",
+        "Vibe Coder",
+        "The Future Engineer",
+        "AI Tech Lead",
         "Smart Glasses"
       ],
-      "bio": "I'm a Software Developer who's passionate about creating great mobile apps. I'm currently leading the way as a Software Architect at VSight, where I manage iOS and Android teams, help make important technical decisions, and support our talented mobile engineers.",
+      "bio": "I'm a Software Developer who's passionate about creating great mobile apps with AI. I'm currently leading the way Founder at Halmob, where I manage iOS and Android teams, help make important technical decisions, and support our talented mobile engineers.",
       "image": "https://media.licdn.com/dms/image/v2/C4D03AQGip5h5SatoUw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572255414377?e=1742428800&v=beta&t=zbW9u5gTlt8Xz75nGxsVKFPh3rzFeRhWenW0MVWi-Ao",
       "email": "ilker@ilkerulusoy.com.tr",
       "linkedin": "linkedin.com/in/ulusoyilker",
@@ -220,7 +223,8 @@
       ],
       "pastEvents": [
         "Teknasyon Tech Meetup 53 - iOS Uygulamalarında Performans Analizi",
-        "Devnot Mobil Yazılım Konferansı 2025" 
+        "Devnot Mobil Yazılım Konferansı 2025",
+        "DevFest 2025 Kastamonu - AI Agents with n8n "
       ],
       "liveEvents": [
         {
